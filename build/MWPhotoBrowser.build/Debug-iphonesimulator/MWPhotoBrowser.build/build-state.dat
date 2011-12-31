@@ -1,1265 +1,0 @@
-TMWPhotoBrowser
-v7
-r0
-t322887594.414169
-cCheck dependencies
-cProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist MWPhotoBrowser-Info.plist
-cCompileXIB /Users/rdaly/Code/Robotangel/MainWindow.xib
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg Classes/../photo1l.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg Classes/../photo1m.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg Classes/../photo2l.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg Classes/../photo2m.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg Classes/../photo3l.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg Classes/../photo3m.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg Classes/../photo4l.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg Classes/../photo4m.jpg
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
-cCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
-cCompileXIB /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
-cProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o /Users/rdaly/Code/Robotangel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowser.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAZoomingScrollView.o /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhoto.o /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o /Users/rdaly/Code/Robotangel/Classes/Menu.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser normal i386
-cGenerateDSYMFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-cTouch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo1l.jpg
-c000000004CD1AE8A000000000006C3AD
-t1288810122
-s443309
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo1m.jpg
-c000000004CD1AE8A000000000002299D
-t1288810122
-s141725
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo2l.jpg
-c000000004CD1AE8A0000000000057401
-t1288810122
-s357377
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo2m.jpg
-c000000004CD1AE8A000000000001CC98
-t1288810122
-s117912
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo3l.jpg
-c000000004CD1AE8A000000000006587D
-t1288810122
-s415869
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo3m.jpg
-c000000004CD1AE8A000000000001EDF2
-t1288810122
-s126450
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo4l.jpg
-c000000004CD1AE8A00000000000685EB
-t1288810122
-s427499
-
-N/Users/rdaly/Code/Robotangel/Classes/../photo4m.jpg
-c000000004CD1AE8A000000000001C649
-t1288810122
-s116297
-
-N/Users/rdaly/Code/Robotangel/Classes/MWPhoto.h
-c000000004CD1AE8A00000000000003C8
-t1288810122
-s968
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/MWPhoto.m
-c000000004CD1AE8A0000000000000F01
-t1288810122
-s3841
-i"MWPhoto.h"
-i"UIImage+Decompress.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/MWPhotoBrowser.h
-c000000004CD1AE8A00000000000006E6
-t1288810122
-s1766
-i<UIKit/UIKit.h>
-i"MWPhoto.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/MWPhotoBrowser.m
-c000000004CD1AE8A0000000000004055
-t1288810122
-s16469
-i"MWPhotoBrowser.h"
-i"ZoomingScrollView.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/MWPhotoBrowserAppDelegate.h
-c000000004CD1AE8A0000000000000156
-t1288810122
-s342
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/MWPhotoBrowserAppDelegate.m
-c000000004CD1AE8A0000000000000A82
-t1288810122
-s2690
-i"MWPhotoBrowserAppDelegate.h"
-i"Menu.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/Menu.h
-c000000004CD1AE8A00000000000000D1
-t1288810122
-s209
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/Menu.m
-c000000004D8EA5840000000000000E84
-t1301194116
-s3716
-i"Menu.h"
-i"RAPhotoBrowser.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/RAPhoto.h
-c000000004D8EA60C00000000000003BF
-t1301194252
-s959
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m
-c000000004D8EA6260000000000000EF9
-t1301194278
-s3833
-i"RAPhoto.h"
-i"UIImage+Decompress.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.h
-c000000004D8EA75200000000000006E5
-t1301194578
-s1765
-i<UIKit/UIKit.h>
-i"RAPhoto.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m
-c000000004D8EA7700000000000004068
-t1301194608
-s16488
-i"RAPhotoBrowser.h"
-i"RAZoomingScrollView.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.h
-c000000004D8EA43F000000000000014D
-t1301193791
-s333
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m
-c000000004D8EA46F0000000000000A79
-t1301193839
-s2681
-i"RAPhotoBrowserAppDelegate.h"
-i"Menu.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.h
-c000000004D8EA6DE0000000000000364
-t1301194462
-s868
-i<Foundation/Foundation.h>
-i"UIImageViewTap.h"
-i"UIViewTap.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m
-c000000004D8EA6F00000000000001C16
-t1301194480
-s7190
-i"RAZoomingScrollView.h"
-i"RAPhotoBrowser.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.h
-c000000004D8EA53100000000000000E6
-t1301194033
-s230
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m
-c000000004D8EA522000000000000040B
-t1301194018
-s1035
-i"UIImage+Decompress.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.h
-c000000004D8EA5440000000000000314
-t1301194052
-s788
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m
-c000000004D8EA54000000000000008AE
-t1301194048
-s2222
-i"UIImageViewTap.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/UIViewTap.h
-c000000004D8EA53B00000000000002C4
-t1301194043
-s708
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m
-c000000004D8EA536000000000000078B
-t1301194038
-s1931
-i"UIViewTap.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.h
-c000000004D8EA5AA0000000000000362
-t1301194154
-s866
-i<Foundation/Foundation.h>
-i"UIImageViewTap.h"
-i"UIViewTap.h"
-
-N/Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.m
-c000000004D8EA5910000000000001C10
-t1301194129
-s7184
-i"ZoomingScrollView.h"
-i"RAPhotoBrowser.h"
-
-N/Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch
-c000000004D8EA4EF00000000000000BD
-t1301193967
-s189
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Code/Robotangel/MainWindow.xib
-c000000004D8EA68A0000000000004469
-t1301194378
-s17513
-
-N/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
-c000000004D8EA6760000000000004576
-t1301194358
-s17782
-
-N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png
-c000000004CD1AE8A0000000000000491
-t1288810122
-s1169
-
-N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png
-c000000004CD1AE8A0000000000000550
-t1288810122
-s1360
-
-N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png
-c000000004CD1AE8A0000000000000486
-t1288810122
-s1158
-
-N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png
-c000000004CD1AE8A000000000000054B
-t1288810122
-s1355
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
-t1301194609
-s646
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM
-t1301194609
-s102
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist
-t1301193025
-s706
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-t1301194609
-s75736
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow-iPad.nib
-t1301194380
-s1539
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow.nib
-t1301194380
-s1538
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/PkgInfo
-t1301193025
-s8
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png
-t1301193025
-s1169
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png
-t1301193025
-s1360
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png
-t1301193025
-s1158
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png
-t1301193025
-s1355
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg
-t1301193025
-s443309
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg
-t1301193025
-s141725
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg
-t1301193025
-s357377
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg
-t1301193025
-s117912
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg
-t1301193025
-s415869
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg
-t1301193025
-s126450
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg
-t1301193025
-s427499
-
-N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg
-t1301193025
-s116297
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhoto.o
-t1301193026
-s22064
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.LinkFileList
-c000000004D8EA6EB00000000000004BC
-t1301194475
-s1212
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.o
-t1301193026
-s93972
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowserAppDelegate.o
-t1301193026
-s52796
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o
-t1301194581
-s51760
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhoto.o
-t1301194476
-s22008
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowser.o
-t1301194609
-s93928
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o
-t1301194476
-s52740
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAZoomingScrollView.o
-t1301194581
-s68492
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o
-t1301194476
-s8868
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o
-t1301194476
-s45692
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o
-t1301194476
-s44608
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o
-t1301194254
-s68328
-
-N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o
-t1301194476
-s6284
-
-N/Users/rdaly/Code/Robotangel/main.m
-c000000004D8EA4FB000000000000016A
-t1301193979
-s362
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo1l.jpg
-c000000004CD1AE8A000000000006C3AD
-t1288810122
-s443309
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo1m.jpg
-c000000004CD1AE8A000000000002299D
-t1288810122
-s141725
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo2l.jpg
-c000000004CD1AE8A0000000000057401
-t1288810122
-s357377
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo2m.jpg
-c000000004CD1AE8A000000000001CC98
-t1288810122
-s117912
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo3l.jpg
-c000000004CD1AE8A000000000006587D
-t1288810122
-s415869
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo3m.jpg
-c000000004CD1AE8A000000000001EDF2
-t1288810122
-s126450
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo4l.jpg
-c000000004CD1AE8A00000000000685EB
-t1288810122
-s427499
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo4m.jpg
-c000000004CD1AE8A000000000001C649
-t1288810122
-s116297
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.h
-c000000004CD1AE8A00000000000003C8
-t1288810122
-s968
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.m
-c000000004CD1AE8A0000000000000F01
-t1288810122
-s3841
-i"MWPhoto.h"
-i"UIImage+Decompress.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.h
-c000000004CD1AE8A00000000000006E6
-t1288810122
-s1766
-i<UIKit/UIKit.h>
-i"MWPhoto.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.m
-c000000004CD1AE8A0000000000004055
-t1288810122
-s16469
-i"MWPhotoBrowser.h"
-i"ZoomingScrollView.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.h
-c000000004CD1AE8A0000000000000156
-t1288810122
-s342
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.m
-c000000004CD1AE8A0000000000000A82
-t1288810122
-s2690
-i"MWPhotoBrowserAppDelegate.h"
-i"Menu.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.h
-c000000004CD1AE8A00000000000000D1
-t1288810122
-s209
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.m
-c000000004CD1AE8A0000000000000E8D
-t1288810122
-s3725
-i"Menu.h"
-i"MWPhotoBrowser.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.h
-c000000004CD1AE8A00000000000000EF
-t1288810122
-s239
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.m
-c000000004CD1AE8A0000000000000414
-t1288810122
-s1044
-i"UIImage+Decompress.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.h
-c000000004CD1AE8A0000000000000316
-t1288810122
-s790
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.m
-c000000004CD1AE8A00000000000008B0
-t1288810122
-s2224
-i"UIImageViewTap.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.h
-c000000004CD1AE8A00000000000002C6
-t1288810122
-s710
-i<Foundation/Foundation.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.m
-c000000004CD1AE8A000000000000078D
-t1288810122
-s1933
-i"UIViewTap.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.h
-c000000004CD1AE8A000000000000036B
-t1288810122
-s875
-i<Foundation/Foundation.h>
-i"UIImageViewTap.h"
-i"UIViewTap.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.m
-c000000004CD1AE8A0000000000001C19
-t1288810122
-s7193
-i"ZoomingScrollView.h"
-i"MWPhotoBrowser.h"
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MWPhotoBrowser_Prefix.pch
-c000000004CD1AE8A00000000000000C5
-t1288810122
-s197
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MainWindow.xib
-c000000004CD1AE8A0000000000004479
-t1288810122
-s17529
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Resources-iPad/MainWindow-iPad.xib
-c000000004CD1AE8A0000000000004581
-t1288810122
-s17793
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowLeft.png
-c000000004CD1AE8A0000000000000491
-t1288810122
-s1169
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowLeft@2x.png
-c000000004CD1AE8A0000000000000550
-t1288810122
-s1360
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowRight.png
-c000000004CD1AE8A0000000000000486
-t1288810122
-s1158
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowRight@2x.png
-c000000004CD1AE8A000000000000054B
-t1288810122
-s1355
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app
-t1301193026
-s646
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM
-t1301193026
-s102
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist
-t1301193025
-s706
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-t1301193026
-s76128
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow-iPad.nib
-t1301193025
-s1539
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow.nib
-t1301193025
-s1538
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/PkgInfo
-t1301193025
-s8
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png
-t1301193025
-s1169
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png
-t1301193025
-s1360
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png
-t1301193025
-s1158
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png
-t1301193025
-s1355
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg
-t1301193025
-s443309
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg
-t1301193025
-s141725
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg
-t1301193025
-s357377
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg
-t1301193025
-s117912
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg
-t1301193025
-s415869
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg
-t1301193025
-s126450
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg
-t1301193025
-s427499
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg
-t1301193025
-s116297
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhoto.o
-t1301193026
-s22064
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.LinkFileList
-c000000004D8EA14100000000000005B6
-t1301193025
-s1462
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.o
-t1301193026
-s93972
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowserAppDelegate.o
-t1301193026
-s52796
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o
-t1301193026
-s51816
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o
-t1301193026
-s8924
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o
-t1301193026
-s45748
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o
-t1301193026
-s44664
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o
-t1301193026
-s68384
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o
-t1301193026
-s6340
-
-N/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/main.m
-c000000004CD1AE8A000000000000016A
-t1288810122
-s362
-i<UIKit/UIKit.h>
-
-N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch
-t1301194476
-s15477968
-
-N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch.gch
-t1301193026
-s15477968
-
-N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-fxkqvxnbbwgrxydzlckqwlpaormh/MWPhotoBrowser_Prefix.pch.gch
-t1301194115
-s15477968
-
-NMWPhotoBrowser-Info.plist
-c000000004CD1AE8A00000000000003FF
-t1288810122
-s1023
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies322887594#322887594#0(0"0(0#1#0"8618603584#0"0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhoto.o /Users/rdaly/Code/Robotangel/Classes/MWPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhoto.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.722316
-e322885826.846979
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhoto.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@82"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.m322885826#322885826#0(0"0(0#0#74"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.m8599937152#2266"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhoto.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhoto.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.o /Users/rdaly/Code/Robotangel/Classes/MWPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.624180
-e322885826.863841
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.m322885826#322885826#0(0"0(0#0#81"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.m8609153216#2280"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowser.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowserAppDelegate.o /Users/rdaly/Code/Robotangel/Classes/MWPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowserAppDelegate.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.622898
-e322885826.722183
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowserAppDelegate.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@100"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.m322885826#322885826#0(0"0(0#0#92"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.m8612539552#2302"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/MWPhotoBrowserAppDelegate.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowserAppDelegate.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o /Users/rdaly/Code/Robotangel/Classes/Menu.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887381.332590
-e322887381.418961
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o
-x/Users/rdaly/Code/Robotangel/Classes/Menu.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@51"Compile /Users/rdaly/Code/Robotangel/Classes/Menu.m322887381#322887381#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/Classes/Menu.m8616577952#1952"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/Menu.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.847123
-e322885826.920634
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.m322885826#322885826#0(0"0(0#0#71"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.m8613313120#2260"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/Menu.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/Menu.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhoto.o /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887276.404452
-e322887276.522770
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhoto.o
-x/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@54"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m322887276#322887276#0(0"0(0#0#46"/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m8615371840#1958"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhoto.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowser.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887409.542428
-e322887409.662107
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowser.o
-x/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@61"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m322887409#322887409#0(0"0(0#0#53"/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m8599823680#1972"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowser.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887276.325999
-e322887276.420423
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o
-x/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m322887276#322887276#0(0"0(0#0#64"/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m8615986336#1994"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAZoomingScrollView.o /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887381.330774
-e322887381.450547
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAZoomingScrollView.o
-x/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m322887381#322887381#0(0"0(0#0#58"/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m8609431712#1982"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/RAZoomingScrollView.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887276.420576
-e322887276.499084
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o
-x/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m322887276#322887276#0(0"0(0#0#57"/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m8610323392#1980"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.793634
-e322885826.856102
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.m322885826#322885826#0(0"0(0#0#85"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.m8604978944#2288"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImage+Decompress.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImage+Decompress.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887276.394214
-e322887276.532855
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o
-x/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@61"Compile /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m322887276#322887276#0(0"0(0#0#53"/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m8605482240#1972"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.686445
-e322885826.797424
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.m322885826#322885826#0(0"0(0#0#81"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.m8604572192#2280"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIImageViewTap.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIImageViewTap.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887276.497479
-e322887276.582756
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o
-x/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@56"Compile /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m322887276#322887276#0(0"0(0#0#48"/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m8615843136#1962"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.797568
-e322885826.880010
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.m322885826#322885826#0(0"0(0#0#76"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.m8599953568#2270"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/UIViewTap.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/UIViewTap.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o /Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887053.941347
-e322887054.067756
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o
-x/Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.m322887053#322887054#0(0"0(0#0#56"/Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.m8608010176#1978"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-fxkqvxnbbwgrxydzlckqwlpaormh/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/ZoomingScrollView.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.625712
-e322885826.793496
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@92"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.m322885826#322885826#0(0"0(0#0#84"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.m8605490048#2286"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/ZoomingScrollView.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/ZoomingScrollView.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o /Users/rdaly/Code/Robotangel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887276.324455
-e322887276.393661
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o
-x/Users/rdaly/Code/Robotangel/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@43"Compile /Users/rdaly/Code/Robotangel/main.m322887276#322887276#0(0"0(0#0#35"/Users/rdaly/Code/Robotangel/main.m8617883808#1944"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/main.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o0#
-
-CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885826.621365
-e322885826.686057
-r1
-xCompileC
-xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/main.m322885826#322885826#0(0"0(0#0#63"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/main.m8614037792#2252"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/main.m -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/rdaly/Code/Robotangel/MainWindow.xib
-s322887180.268582
-e322887180.614562
-r1
-xCompileXIB
-x/Users/rdaly/Code/Robotangel/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib322887180#322887180#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/MainWindow.xib8617883808#547"    cd /Users/rdaly/Code/Robotangel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow.nib /Users/rdaly/Code/Robotangel/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
-s322887180.269746
-e322887180.614763
-r1
-xCompileXIB
-x/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
-lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib322887180#322887180#0(0"0(0#0#63"/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib8615621664#572"    cd /Users/rdaly/Code/Robotangel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow-iPad.nib /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MainWindow.xib
-s322885825.586844
-e322885825.949434
-r1
-xCompileXIB
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib322885825#322885825#0(0"0(0#0#71"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MainWindow.xib8603918464#631"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow.nib /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Resources-iPad/MainWindow-iPad.xib
-s322885825.607592
-e322885825.975408
-r1
-xCompileXIB
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Resources-iPad/MainWindow-iPad.xib
-lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib322885825#322885825#0(0"0(0#0#91"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Resources-iPad/MainWindow-iPad.xib8608718688#656"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow-iPad.nib /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
-s322885825.601464
-e322885825.613029
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png
-xUIBarButtonItemArrowLeft.png
-lSLF07#2@33"Copy UIBarButtonItemArrowLeft.png322885825#322885825#0(0"0(0#0#85"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowLeft.png8610731744#547"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowLeft.png /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
-s322885825.602998
-e322885825.613659
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png
-xUIBarButtonItemArrowLeft@2x.png
-lSLF07#2@36"Copy UIBarButtonItemArrowLeft@2x.png322885825#322885825#0(0"0(0#0#88"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowLeft@2x.png8610200160#550"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowLeft@2x.png /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
-s322885825.605491
-e322885825.613240
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png
-xUIBarButtonItemArrowRight.png
-lSLF07#2@34"Copy UIBarButtonItemArrowRight.png322885825#322885825#0(0"0(0#0#86"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowRight.png8609442368#548"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowRight.png /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
-s322885825.606406
-e322885825.617147
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png
-xUIBarButtonItemArrowRight@2x.png
-lSLF07#2@37"Copy UIBarButtonItemArrowRight@2x.png322885825#322885825#0(0"0(0#0#89"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowRight@2x.png8609172800#551"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/UIBarButtonItemArrowRight@2x.png /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg Classes/../photo1l.jpg
-s322885825.587577
-e322885825.602491
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg
-xClasses/../photo1l.jpg
-lSLF07#2@27"Copy Classes/../photo1l.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo1l.jpg8603196992#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo1l.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg Classes/../photo1m.jpg
-s322885825.588355
-e322885825.602654
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg
-xClasses/../photo1m.jpg
-lSLF07#2@27"Copy Classes/../photo1m.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo1m.jpg8602774432#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo1m.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg Classes/../photo2l.jpg
-s322885825.593477
-e322885825.602817
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg
-xClasses/../photo2l.jpg
-lSLF07#2@27"Copy Classes/../photo2l.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo2l.jpg8600499264#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo2l.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg Classes/../photo2m.jpg
-s322885825.594261
-e322885825.607343
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg
-xClasses/../photo2m.jpg
-lSLF07#2@27"Copy Classes/../photo2m.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo2m.jpg8602832416#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo2m.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg Classes/../photo3l.jpg
-s322885825.596662
-e322885825.609122
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg
-xClasses/../photo3l.jpg
-lSLF07#2@27"Copy Classes/../photo3l.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo3l.jpg8614814400#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo3l.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg Classes/../photo3m.jpg
-s322885825.597532
-e322885825.607501
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg
-xClasses/../photo3m.jpg
-lSLF07#2@27"Copy Classes/../photo3m.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo3m.jpg8613817984#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo3m.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg Classes/../photo4l.jpg
-s322885825.598873
-e322885825.609323
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg
-xClasses/../photo4l.jpg
-lSLF07#2@27"Copy Classes/../photo4l.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo4l.jpg8613564768#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo4l.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg Classes/../photo4m.jpg
-s322885825.600607
-e322885825.617401
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg
-xClasses/../photo4m.jpg
-lSLF07#2@27"Copy Classes/../photo4m.jpg322885825#322885825#0(0"0(0#0#79"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo4m.jpg8613126784#541"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/Classes/../photo4m.jpg /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CGenerateDSYMFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-s322887409.687360
-e322887409.720599
-r1
-xGenerateDSYMFile
-x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM
-x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser322887409#322887409#0(0"0(0#0#90"/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser8613703616#374"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM0#
-
-CGenerateDSYMFile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-s322885826.949043
-e322885826.970139
-r1
-xGenerateDSYMFile
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser322885826#322885826#0(0"0(0#0#118"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser8603220544#458"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM0#
-
-CLd /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser normal i386
-s322887409.662197
-e322887409.687268
-r1
-xLd
-x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-xnormal
-xi386
-lSLF07#2@95"Link /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser322887409#322887409#0(0"0(0#0#0"8614261952#885"    cd /Users/rdaly/Code/Robotangel    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -filelist /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser0#
-
-CLd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser normal i386
-s322885826.920717
-e322885826.948913
-r1
-xLd
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
-xnormal
-xi386
-lSLF07#2@123"Link /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser322885826#322885826#0(0"0(0#0#0"8600131648#1025"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -filelist /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/Objects-normal/i386/MWPhotoBrowser.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser0#
-
-CProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist MWPhotoBrowser-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist MWPhotoBrowser-Info.plist
-s322885825.582667
-e322885825.586775
-r1
-xProcessInfoPlistFile
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist
-xMWPhotoBrowser-Info.plist
-lSLF07#2@33"Process MWPhotoBrowser-Info.plist322885825#322885825#0(0"0(0#0#82"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MWPhotoBrowser-Info.plist8605289344#554"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MWPhotoBrowser-Info.plist -genpkginfo /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist0#
-
-CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s322887275.674141
-e322887276.324307
-r1
-xProcessPCH
-x/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch
-xMWPhotoBrowser_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile MWPhotoBrowser_Prefix.pch322887275#322887276#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch8610369248#1839"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -c /Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch -o /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s322885825.975529
-e322885826.621196
-r1
-xProcessPCH
-x/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch.gch
-xMWPhotoBrowser_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile MWPhotoBrowser_Prefix.pch322885825#322885826#0(0"0(0#0#82"/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MWPhotoBrowser_Prefix.pch8604613344#2119"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/include -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/MWPhotoBrowser_Prefix.pch -o /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-efzmainrxxjxhmfbzdljmbyvgkxr/MWPhotoBrowser_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-fxkqvxnbbwgrxydzlckqwlpaormh/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s322886914.628559
-e322886915.241273
-r1
-xProcessPCH
-x/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-fxkqvxnbbwgrxydzlckqwlpaormh/MWPhotoBrowser_Prefix.pch.gch
-xMWPhotoBrowser_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile MWPhotoBrowser_Prefix.pch322886914#322886915#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch8604576640#1839"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/MWPhotoBrowser-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/MWPhotoBrowser.build/DerivedSources -c /Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch -o /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-fxkqvxnbbwgrxydzlckqwlpaormh/MWPhotoBrowser_Prefix.pch.gch0#
-
-CTouch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
-s322887409.720682
-e322887409.722898
-r1
-xTouch
-x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
-lSLF07#2@81"Touch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app322887409#322887409#0(0"0(0#0#0"8613482400#265"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
-CTouch /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app
-s322885826.970221
-e322885826.972979
-r1
-xTouch
-x/Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app
-lSLF07#2@109"Touch /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app322885826#322885826#0(0"0(0#0#0"8602771616#321"    cd /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rdaly/Downloads/mwaterfall-MWPhotoBrowser-9c0ac31/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
-
