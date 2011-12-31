@@ -1,0 +1,1229 @@
+TRobotangel
+v7
+r0
+t323118077.316762
+cCheck dependencies
+cProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist RAPhotoBrowser-Info.plist
+cCompileXIB /Users/rdaly/Code/Robotangel/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
+cCompileXIB /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_1.png head_tooth_1.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_2.png head_tooth_2.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_3.png head_tooth_3.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_4.png head_tooth_4.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_6.png head_tooth_6.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_7.png head_tooth_7.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_8.png head_tooth_8.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_9.png head_tooth_9.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_10.png head_tooth_10.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/Icon@2x.png Icon@2x.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/URLLink.png URLLink.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/URLLink@2x.png URLLink@2x.png
+cProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch.gch RAPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o /Users/rdaly/Code/Robotangel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o /Users/rdaly/Code/Robotangel/Classes/Menu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAMainViewController.o /Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLStream.o /Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLElement.o /Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXPathQuery.o /Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleriesView.o /Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryView.o /Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGallery.o /Users/rdaly/Code/Robotangel/Classes/RAGallery.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryLoadOperation.o /Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAAnimatedTextView.o /Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel normal i386
+cGenerateDSYMFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+cTouch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004CC122FF000000000009AF90
+t1287725823
+s634768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004CC122F200000000000008C5
+t1287725810
+s2245
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/HTMLparser.h
+c000000004CC10DA50000000000002401
+t1287720357
+s9217
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CC10DA500000000000098A9
+t1287720357
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10DA50000000000008F14
+t1287720357
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10DA50000000000003F47
+t1287720357
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10DA50000000000004BF8
+t1287720357
+s19448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo1l.jpg
+c000000004CD1AE8A000000000006C3AD
+t1288810122
+s443309
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo1m.jpg
+c000000004CD1AE8A000000000002299D
+t1288810122
+s141725
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo2l.jpg
+c000000004CD1AE8A0000000000057401
+t1288810122
+s357377
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo2m.jpg
+c000000004CD1AE8A000000000001CC98
+t1288810122
+s117912
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo3l.jpg
+c000000004CD1AE8A000000000006587D
+t1288810122
+s415869
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo3m.jpg
+c000000004CD1AE8A000000000001EDF2
+t1288810122
+s126450
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo4l.jpg
+c000000004CD1AE8A00000000000685EB
+t1288810122
+s427499
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo4m.jpg
+c000000004CD1AE8A000000000001C649
+t1288810122
+s116297
+
+N/Users/rdaly/Code/Robotangel/Classes/Menu.h
+c000000004CD1AE8A00000000000000D1
+t1288810122
+s209
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/Menu.m
+c000000004D8F8C5C0000000000001F4C
+t1301253212
+s8012
+i"Menu.h"
+i"RAPhotoBrowser.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.h
+c000000004D921A380000000000000451
+t1301420600
+s1105
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m
+c000000004D922C2B00000000000024FC
+t1301425195
+s9468
+i"RAAnimatedTextView.h"
+i<CoreText/CoreText.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.h
+c000000004D8FF24F00000000000001FD
+t1301279311
+s509
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m
+c000000004D90D5290000000000000BFE
+t1301337385
+s3070
+i"RAGalleriesView.h"
+i"RAGallery.h"
+i"RAGalleryView.h"
+i<QuartzCore/QuartzCore.h>
+i"RAPhotoBrowser.h"
+i"RAMainViewController.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGallery.h
+c000000004D90036900000000000003B6
+t1301283689
+s950
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGallery.m
+c000000004D9008DE0000000000000509
+t1301285086
+s1289
+i"RAGallery.h"
+i"RAMainViewController.h"
+i"RAGalleryLoadOperation.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.h
+c000000004D42D82F000000000000024C
+t1296226351
+s588
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m
+c000000004D9219700000000000001447
+t1301420400
+s5191
+i"RAGalleryLoadOperation.h"
+i"RAGallery.h"
+i"RAXMLStream.h"
+i"RAPhoto.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGalleryView.h
+c000000004D8FF25900000000000001C6
+t1301279321
+s454
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m
+c000000004D8FF2610000000000000B6C
+t1301279329
+s2924
+i"RAGalleryView.h"
+i"RAGallery.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAMainViewController.h
+c000000004D90D53C0000000000000827
+t1301337404
+s2087
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m
+c000000004D90CB480000000000002391
+t1301334856
+s9105
+i"RAMainViewController.h"
+i"RAXMLStream.h"
+i"RAGallery.h"
+i"RAGalleriesView.h"
+i"RAPhotoBrowser.h"
+i"RAPhotoBrowser.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhoto.h
+c000000004D91639F000000000000047D
+t1301373855
+s1149
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m
+c000000004D9164B60000000000001031
+t1301374134
+s4145
+i"RAPhoto.h"
+i"UIImage+Decompress.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.h
+c000000004D921E4E000000000000089F
+t1301421646
+s2207
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i"RAPhoto.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m
+c000000004D922C5A0000000000005162
+t1301425242
+s20834
+i"RAPhotoBrowser.h"
+i"RAZoomingScrollView.h"
+i<CoreText/CoreText.h>
+i<QuartzCore/QuartzCore.h>
+i"RAAnimatedTextView.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.h
+c000000004D8FF26B0000000000000154
+t1301279339
+s340
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m
+c000000004D900F770000000000000B10
+t1301286775
+s2832
+i"RAPhotoBrowserAppDelegate.h"
+i"RAMainViewController.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAXMLElement.h
+c000000004D8FF226000000000000041A
+t1301279270
+s1050
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m
+c000000004D8FF22100000000000005E6
+t1301279265
+s1510
+i"RAXMLElement.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAXMLStream.h
+c000000004D8FF22F0000000000000223
+t1301279279
+s547
+i<Foundation/Foundation.h>
+i"RAXMLElement.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m
+c000000004D8FF22B0000000000000558
+t1301279275
+s1368
+i"RAXMLStream.h"
+i"RAXPathQuery.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.h
+c000000004D8FF21C000000000000010F
+t1301279260
+s271
+
+N/Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m
+c000000004D8FF213000000000000138A
+t1301279251
+s5002
+i"RAXPathQuery.h"
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/HTMLparser.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.h
+c000000004D8FF2A2000000000000036B
+t1301279394
+s875
+i<Foundation/Foundation.h>
+i"UIImageViewTap.h"
+i"UIViewTap.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m
+c000000004D915E3B0000000000001C1D
+t1301372475
+s7197
+i"RAZoomingScrollView.h"
+i"RAPhotoBrowser.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.h
+c000000004D8EA53100000000000000E6
+t1301194033
+s230
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m
+c000000004D8EA522000000000000040B
+t1301194018
+s1035
+i"UIImage+Decompress.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.h
+c000000004D8EA5440000000000000314
+t1301194052
+s788
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m
+c000000004D8EA54000000000000008AE
+t1301194048
+s2222
+i"UIImageViewTap.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/UIViewTap.h
+c000000004D8EA53B00000000000002C4
+t1301194043
+s708
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m
+c000000004D8EA536000000000000078B
+t1301194038
+s1931
+i"UIViewTap.h"
+
+N/Users/rdaly/Code/Robotangel/Icon.png
+c000000004D40EE9300000000000014DC
+t1296101011
+s5340
+
+N/Users/rdaly/Code/Robotangel/Icon@2x.png
+c000000004D40EE880000000000002804
+t1296101000
+s10244
+
+N/Users/rdaly/Code/Robotangel/MainWindow.xib
+c000000004D900ABF00000000000044DF
+t1301285567
+s17631
+
+N/Users/rdaly/Code/Robotangel/RAPhotoBrowser_Prefix.pch
+c000000004D8EA4EF00000000000000BD
+t1301193967
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+c000000004D900A650000000000004527
+t1301285477
+s17703
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png
+c000000004CD1AE8A0000000000000491
+t1288810122
+s1169
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png
+c000000004CD1AE8A0000000000000550
+t1288810122
+s1360
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png
+c000000004CD1AE8A0000000000000486
+t1288810122
+s1158
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png
+c000000004CD1AE8A000000000000054B
+t1288810122
+s1355
+
+N/Users/rdaly/Code/Robotangel/URLLink.png
+c000000004D92227D0000000000000D15
+t1301422717
+s3349
+
+N/Users/rdaly/Code/Robotangel/URLLink@2x.png
+c000000004D92226F0000000000000FE6
+t1301422703
+s4070
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+t1301425277
+s816
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM
+t1301425277
+s102
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Icon.png
+t1301425274
+s5340
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Icon@2x.png
+t1301425274
+s10244
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist
+t1301425274
+s747
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow-iPad.nib
+t1301425275
+s1539
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow.nib
+t1301425275
+s1538
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/PkgInfo
+t1301425274
+s8
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+t1301425277
+s165700
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png
+t1301425274
+s1169
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png
+t1301425274
+s1360
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png
+t1301425274
+s1158
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png
+t1301425274
+s1355
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/URLLink.png
+t1301425274
+s3349
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/URLLink@2x.png
+t1301425274
+s4070
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_1.png
+t1301425274
+s20118
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_10.png
+t1301425274
+s20525
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_2.png
+t1301425274
+s20141
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_3.png
+t1301425274
+s20176
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_4.png
+t1301425274
+s20187
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_6.png
+t1301425274
+s20138
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_7.png
+t1301425274
+s20151
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_8.png
+t1301425274
+s20130
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/head_tooth_9.png
+t1301425274
+s20149
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo1l.jpg
+t1301195078
+s443309
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo1m.jpg
+t1301195078
+s141725
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo2l.jpg
+t1301195078
+s357377
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo2m.jpg
+t1301195078
+s117912
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo3l.jpg
+t1301195078
+s415869
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo3m.jpg
+t1301195078
+s126450
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo4l.jpg
+t1301195078
+s427499
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo4m.jpg
+t1301195078
+s116297
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o
+t1301425276
+s61724
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAAnimatedTextView.o
+t1301425277
+s67088
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleriesView.o
+t1301425277
+s54196
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGallery.o
+t1301425277
+s49028
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryLoadOperation.o
+t1301425277
+s22612
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryView.o
+t1301425277
+s48728
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAMainViewController.o
+t1301425277
+s88652
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o
+t1301425276
+s24552
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o
+t1301425276
+s113120
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o
+t1301425276
+s54244
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLElement.o
+t1301425276
+s13972
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLStream.o
+t1301425276
+s13188
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXPathQuery.o
+t1301425277
+s20384
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o
+t1301425276
+s68652
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Robotangel.LinkFileList
+c000000004D922C7A00000000000008FA
+t1301425274
+s2298
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o
+t1301425276
+s8868
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o
+t1301425276
+s45692
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o
+t1301425276
+s44608
+
+N/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o
+t1301425276
+s6284
+
+N/Users/rdaly/Code/Robotangel/head_tooth_1.png
+c000000004D3F0E520000000000004E96
+t1295978066
+s20118
+
+N/Users/rdaly/Code/Robotangel/head_tooth_10.png
+c000000004D3F0F2A000000000000502D
+t1295978282
+s20525
+
+N/Users/rdaly/Code/Robotangel/head_tooth_2.png
+c000000004D3F0FED0000000000004EAD
+t1295978477
+s20141
+
+N/Users/rdaly/Code/Robotangel/head_tooth_3.png
+c000000004D3F0FFC0000000000004ED0
+t1295978492
+s20176
+
+N/Users/rdaly/Code/Robotangel/head_tooth_4.png
+c000000004D3F0F6A0000000000004EDB
+t1295978346
+s20187
+
+N/Users/rdaly/Code/Robotangel/head_tooth_6.png
+c000000004D3F0F610000000000004EAA
+t1295978337
+s20138
+
+N/Users/rdaly/Code/Robotangel/head_tooth_7.png
+c000000004D3F0F570000000000004EB7
+t1295978327
+s20151
+
+N/Users/rdaly/Code/Robotangel/head_tooth_8.png
+c000000004D3F0F4B0000000000004EA2
+t1295978315
+s20130
+
+N/Users/rdaly/Code/Robotangel/head_tooth_9.png
+c000000004D3F0F400000000000004EB5
+t1295978304
+s20149
+
+N/Users/rdaly/Code/Robotangel/main.m
+c000000004D8EA4FB000000000000016A
+t1301193979
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch.gch
+t1301425276
+s15477968
+
+N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/RAPhotoBrowser_Prefix.pch.gch
+t1301195164
+s15477968
+
+NRAPhotoBrowser-Info.plist
+c000000004D90CB9C000000000000042A
+t1301334940
+s1066
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323118074#323118074#0(0"0(0#1#0"8716314464#0"0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o /Users/rdaly/Code/Robotangel/Classes/Menu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.787466
+e323118076.938278
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o
+x/Users/rdaly/Code/Robotangel/Classes/Menu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/rdaly/Code/Robotangel/Classes/Menu.m323118076#323118076#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/Classes/Menu.m8715988800#1986"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/Menu.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAAnimatedTextView.o /Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118077.126549
+e323118077.248169
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAAnimatedTextView.o
+x/Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m323118077#323118077#0(0"0(0#0#57"/Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m8715089696#2014"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAAnimatedTextView.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAAnimatedTextView.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleriesView.o /Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.985880
+e323118077.126384
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleriesView.o
+x/Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m323118076#323118077#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m8719460160#2008"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAGalleriesView.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleriesView.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGallery.o /Users/rdaly/Code/Robotangel/Classes/RAGallery.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118077.040188
+e323118077.146065
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGallery.o
+x/Users/rdaly/Code/Robotangel/Classes/RAGallery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/rdaly/Code/Robotangel/Classes/RAGallery.m323118077#323118077#0(0"0(0#0#48"/Users/rdaly/Code/Robotangel/Classes/RAGallery.m8717306464#1996"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAGallery.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGallery.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryLoadOperation.o /Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118077.095041
+e323118077.183840
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryLoadOperation.o
+x/Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m323118077#323118077#0(0"0(0#0#61"/Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m8715826336#2022"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAGalleryLoadOperation.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryLoadOperation.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryView.o /Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.991215
+e323118077.127946
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryView.o
+x/Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m323118076#323118077#0(0"0(0#0#52"/Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m8718220896#2004"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAGalleryView.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAGalleryView.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAMainViewController.o /Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.789805
+e323118077.040049
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAMainViewController.o
+x/Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m323118076#323118077#0(0"0(0#0#59"/Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m8715464384#2018"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAMainViewController.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAMainViewController.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.653314
+e323118076.787321
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o
+x/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m323118076#323118076#0(0"0(0#0#46"/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m8717613376#1992"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.524324
+e323118076.900410
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o
+x/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m323118076#323118076#0(0"0(0#0#53"/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m8715280320#2006"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.523490
+e323118076.653186
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o
+x/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m323118076#323118076#0(0"0(0#0#64"/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m8717753696#2028"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLElement.o /Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.900547
+e323118076.985730
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLElement.o
+x/Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m323118076#323118076#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m8714042048#2002"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAXMLElement.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLElement.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLStream.o /Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.861714
+e323118076.991068
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLStream.o
+x/Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m323118076#323118077#0(0"0(0#0#50"/Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m8714581760#2000"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAXMLStream.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXMLStream.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXPathQuery.o /Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.938413
+e323118077.094891
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXPathQuery.o
+x/Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m323118076#323118077#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m8713524704#2002"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAXPathQuery.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAXPathQuery.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.525444
+e323118076.717745
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o
+x/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m323118076#323118076#0(0"0(0#0#58"/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m8708939712#2016"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.717877
+e323118076.789671
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o
+x/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m323118076#323118076#0(0"0(0#0#57"/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m8717092256#2014"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.625214
+e323118076.751205
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o
+x/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m323118076#323118076#0(0"0(0#0#53"/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m8719591776#2006"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.751361
+e323118076.861577
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o
+x/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m323118076#323118076#0(0"0(0#0#48"/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m8716549440#1996"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o0#
+
+CCompileC build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o /Users/rdaly/Code/Robotangel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118076.522434
+e323118076.625090
+r1
+xCompileC
+xbuild/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o
+x/Users/rdaly/Code/Robotangel/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/rdaly/Code/Robotangel/main.m323118076#323118076#0(0"0(0#0#35"/Users/rdaly/Code/Robotangel/main.m8717614624#1978"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/main.m -o /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rdaly/Code/Robotangel/MainWindow.xib
+s323118074.599875
+e323118075.335416
+r1
+xCompileXIB
+x/Users/rdaly/Code/Robotangel/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323118074#323118075#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/MainWindow.xib8710755648#543"    cd /Users/rdaly/Code/Robotangel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow.nib /Users/rdaly/Code/Robotangel/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+s323118074.603753
+e323118075.335550
+r1
+xCompileXIB
+x/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib323118074#323118075#0(0"0(0#0#63"/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib8709212928#568"    cd /Users/rdaly/Code/Robotangel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow-iPad.nib /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/Icon.png Icon.png
+s323118074.646544
+e323118074.657145
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png323118074#323118074#0(0"0(0#0#37"/Users/rdaly/Code/Robotangel/Icon.png8715316128#439"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Icon.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/Icon@2x.png Icon@2x.png
+s323118074.650707
+e323118074.659411
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png323118074#323118074#0(0"0(0#0#40"/Users/rdaly/Code/Robotangel/Icon@2x.png8714247168#442"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Icon@2x.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
+s323118074.600824
+e323118074.635455
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png
+xUIBarButtonItemArrowLeft.png
+lSLF07#2@33"Copy UIBarButtonItemArrowLeft.png323118074#323118074#0(0"0(0#0#57"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png8710260288#459"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
+s323118074.601539
+e323118074.635668
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png
+xUIBarButtonItemArrowLeft@2x.png
+lSLF07#2@36"Copy UIBarButtonItemArrowLeft@2x.png323118074#323118074#0(0"0(0#0#60"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png8710025088#462"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
+s323118074.602287
+e323118074.635812
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png
+xUIBarButtonItemArrowRight.png
+lSLF07#2@34"Copy UIBarButtonItemArrowRight.png323118074#323118074#0(0"0(0#0#58"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png8709775392#460"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
+s323118074.603027
+e323118074.635967
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png
+xUIBarButtonItemArrowRight@2x.png
+lSLF07#2@37"Copy UIBarButtonItemArrowRight@2x.png323118074#323118074#0(0"0(0#0#61"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png8709569216#463"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/URLLink.png URLLink.png
+s323118074.651638
+e323118074.657400
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/URLLink.png
+xURLLink.png
+lSLF07#2@16"Copy URLLink.png323118074#323118074#0(0"0(0#0#40"/Users/rdaly/Code/Robotangel/URLLink.png8713807776#442"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/URLLink.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/URLLink@2x.png URLLink@2x.png
+s323118074.652411
+e323118074.660364
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/URLLink@2x.png
+xURLLink@2x.png
+lSLF07#2@19"Copy URLLink@2x.png323118074#323118074#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/URLLink@2x.png8713327104#445"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/URLLink@2x.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_1.png head_tooth_1.png
+s323118074.636063
+e323118074.645531
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_1.png
+xhead_tooth_1.png
+lSLF07#2@21"Copy head_tooth_1.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_1.png8708863456#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_1.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_10.png head_tooth_10.png
+s323118074.645772
+e323118074.658394
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_10.png
+xhead_tooth_10.png
+lSLF07#2@22"Copy head_tooth_10.png323118074#323118074#0(0"0(0#0#46"/Users/rdaly/Code/Robotangel/head_tooth_10.png8715701344#448"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_10.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_2.png head_tooth_2.png
+s323118074.637075
+e323118074.645683
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_2.png
+xhead_tooth_2.png
+lSLF07#2@21"Copy head_tooth_2.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_2.png8708643360#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_2.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_3.png head_tooth_3.png
+s323118074.638936
+e323118074.650149
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_3.png
+xhead_tooth_3.png
+lSLF07#2@21"Copy head_tooth_3.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_3.png8714777632#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_3.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_4.png head_tooth_4.png
+s323118074.641339
+e323118074.650315
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_4.png
+xhead_tooth_4.png
+lSLF07#2@21"Copy head_tooth_4.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_4.png8719941184#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_4.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_6.png head_tooth_6.png
+s323118074.642187
+e323118074.650458
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_6.png
+xhead_tooth_6.png
+lSLF07#2@21"Copy head_tooth_6.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_6.png8719450464#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_6.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_7.png head_tooth_7.png
+s323118074.642929
+e323118074.650599
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_7.png
+xhead_tooth_7.png
+lSLF07#2@21"Copy head_tooth_7.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_7.png8718255616#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_7.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_8.png head_tooth_8.png
+s323118074.643710
+e323118074.653364
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_8.png
+xhead_tooth_8.png
+lSLF07#2@21"Copy head_tooth_8.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_8.png8717579584#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_8.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/head_tooth_9.png head_tooth_9.png
+s323118074.644475
+e323118074.653517
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/head_tooth_9.png
+xhead_tooth_9.png
+lSLF07#2@21"Copy head_tooth_9.png323118074#323118074#0(0"0(0#0#45"/Users/rdaly/Code/Robotangel/head_tooth_9.png8716994688#447"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/head_tooth_9.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo1l.jpg Classes/../photo1l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo1m.jpg Classes/../photo1m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo2l.jpg Classes/../photo2l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo2m.jpg Classes/../photo2m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo3l.jpg Classes/../photo3l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo3m.jpg Classes/../photo3m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo4l.jpg Classes/../photo4l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo4m.jpg Classes/../photo4m.jpg
+r0
+
+CGenerateDSYMFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+s323118077.283283
+e323118077.313744
+r1
+xGenerateDSYMFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Robotangel.app.dSYM build/Debug-iphonesimulator/Robotangel.app/Robotangel323118077#323118077#0(0"0(0#0#82"/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel8718311264#362"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM0#
+
+CLd /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel normal i386
+s323118077.248293
+e323118077.283187
+r1
+xLd
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+xnormal
+xi386
+lSLF07#2@87"Link /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel323118077#323118077#0(0"0(0#0#0"8719543712#937"    cd /Users/rdaly/Code/Robotangel    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -filelist /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Robotangel.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2.2 -framework QuartzCore -framework CoreText -framework MessageUI -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel0#
+
+CProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist RAPhotoBrowser-Info.plist
+s323118074.584498
+e323118074.599770
+r1
+xProcessInfoPlistFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist
+xRAPhotoBrowser-Info.plist
+lSLF07#2@33"Process RAPhotoBrowser-Info.plist323118074#323118074#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/RAPhotoBrowser-Info.plist8711708608#462"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RAPhotoBrowser-Info.plist -genpkginfo /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist0#
+
+CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch.gch RAPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323118075.335647
+e323118076.522222
+r1
+xProcessPCH
+x/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch.gch
+xRAPhotoBrowser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile RAPhotoBrowser_Prefix.pch323118075#323118076#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/RAPhotoBrowser_Prefix.pch8719238432#1881"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/Robotangel.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -c /Users/rdaly/Code/Robotangel/RAPhotoBrowser_Prefix.pch -o /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-bgrrcxqsjvsjsubxbttwqnoiftce/RAPhotoBrowser_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RAPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/RAPhotoBrowser_Prefix.pch.gch RAPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+s323118077.313829
+e323118077.316735
+r1
+xTouch
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+lSLF07#2@77"Touch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app323118077#323118077#0(0"0(0#0#0"8717580448#261"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+

@@ -1,0 +1,1039 @@
+TRobotangel
+v7
+r0
+t322887878.410652
+cCheck dependencies
+cProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist RAPhotoBrowser-Info.plist
+cCompileXIB /Users/rdaly/Code/Robotangel/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo1l.jpg Classes/../photo1l.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo1m.jpg Classes/../photo1m.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo2l.jpg Classes/../photo2l.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo2m.jpg Classes/../photo2m.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo3l.jpg Classes/../photo3l.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo3m.jpg Classes/../photo3m.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo4l.jpg Classes/../photo4l.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/photo4m.jpg Classes/../photo4m.jpg
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
+cCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
+cCompileXIB /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+cProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-hexchefigzvjzfglwqwazongmsca/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo1l.jpg
+c000000004CD1AE8A000000000006C3AD
+t1288810122
+s443309
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo1m.jpg
+c000000004CD1AE8A000000000002299D
+t1288810122
+s141725
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo2l.jpg
+c000000004CD1AE8A0000000000057401
+t1288810122
+s357377
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo2m.jpg
+c000000004CD1AE8A000000000001CC98
+t1288810122
+s117912
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo3l.jpg
+c000000004CD1AE8A000000000006587D
+t1288810122
+s415869
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo3m.jpg
+c000000004CD1AE8A000000000001EDF2
+t1288810122
+s126450
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo4l.jpg
+c000000004CD1AE8A00000000000685EB
+t1288810122
+s427499
+
+N/Users/rdaly/Code/Robotangel/Classes/../photo4m.jpg
+c000000004CD1AE8A000000000001C649
+t1288810122
+s116297
+
+N/Users/rdaly/Code/Robotangel/Classes/Menu.h
+c000000004CD1AE8A00000000000000D1
+t1288810122
+s209
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/Menu.m
+c000000004D8EA5840000000000000E84
+t1301194116
+s3716
+i"Menu.h"
+i"RAPhotoBrowser.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhoto.h
+c000000004D8EA60C00000000000003BF
+t1301194252
+s959
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m
+c000000004D8EA6260000000000000EF9
+t1301194278
+s3833
+i"RAPhoto.h"
+i"UIImage+Decompress.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.h
+c000000004D8EA75200000000000006E5
+t1301194578
+s1765
+i<UIKit/UIKit.h>
+i"RAPhoto.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m
+c000000004D8EA7700000000000004068
+t1301194608
+s16488
+i"RAPhotoBrowser.h"
+i"RAZoomingScrollView.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.h
+c000000004D8EA43F000000000000014D
+t1301193791
+s333
+i<UIKit/UIKit.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m
+c000000004D8EA46F0000000000000A79
+t1301193839
+s2681
+i"RAPhotoBrowserAppDelegate.h"
+i"Menu.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.h
+c000000004D8EA6DE0000000000000364
+t1301194462
+s868
+i<Foundation/Foundation.h>
+i"UIImageViewTap.h"
+i"UIViewTap.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m
+c000000004D8EA6F00000000000001C16
+t1301194480
+s7190
+i"RAZoomingScrollView.h"
+i"RAPhotoBrowser.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.h
+c000000004D8EA53100000000000000E6
+t1301194033
+s230
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m
+c000000004D8EA522000000000000040B
+t1301194018
+s1035
+i"UIImage+Decompress.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.h
+c000000004D8EA5440000000000000314
+t1301194052
+s788
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m
+c000000004D8EA54000000000000008AE
+t1301194048
+s2222
+i"UIImageViewTap.h"
+
+N/Users/rdaly/Code/Robotangel/Classes/UIViewTap.h
+c000000004D8EA53B00000000000002C4
+t1301194043
+s708
+i<Foundation/Foundation.h>
+
+N/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m
+c000000004D8EA536000000000000078B
+t1301194038
+s1931
+i"UIViewTap.h"
+
+N/Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/MainWindow.xib
+c000000004D8EA68A0000000000004469
+t1301194378
+s17513
+
+N/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+c000000004D8EA6760000000000004576
+t1301194358
+s17782
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png
+c000000004CD1AE8A0000000000000491
+t1288810122
+s1169
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png
+c000000004CD1AE8A0000000000000550
+t1288810122
+s1360
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png
+c000000004CD1AE8A0000000000000486
+t1288810122
+s1158
+
+N/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png
+c000000004CD1AE8A000000000000054B
+t1288810122
+s1355
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
+t1301194821
+s646
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM
+t1301194821
+s102
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist
+t1301193025
+s706
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
+t1301194821
+s75700
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow-iPad.nib
+t1301194380
+s1539
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MainWindow.nib
+t1301194380
+s1538
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/PkgInfo
+t1301193025
+s8
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png
+t1301193025
+s1169
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png
+t1301193025
+s1360
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png
+t1301193025
+s1158
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png
+t1301193025
+s1355
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg
+t1301193025
+s443309
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg
+t1301193025
+s141725
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg
+t1301193025
+s357377
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg
+t1301193025
+s117912
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg
+t1301193025
+s415869
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg
+t1301193025
+s126450
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg
+t1301193025
+s427499
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg
+t1301193025
+s116297
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist
+t1301195078
+s690
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow-iPad.nib
+t1301195078
+s1539
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow.nib
+t1301195078
+s1538
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/PkgInfo
+t1301195078
+s8
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png
+t1301195078
+s1169
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png
+t1301195078
+s1360
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png
+t1301195078
+s1158
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png
+t1301195078
+s1355
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo1l.jpg
+t1301195078
+s443309
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo1m.jpg
+t1301195078
+s141725
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo2l.jpg
+t1301195078
+s357377
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo2m.jpg
+t1301195078
+s117912
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo3l.jpg
+t1301195078
+s415869
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo3m.jpg
+t1301195078
+s126450
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo4l.jpg
+t1301195078
+s427499
+
+N/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/photo4m.jpg
+t1301195078
+s116297
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/MWPhotoBrowser.LinkFileList
+c000000004D8EA8450000000000000498
+t1301194821
+s1176
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Robotangel.LinkFileList
+c000000004D8EA9450000000000000498
+t1301195077
+s1176
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/rdaly/Code/Robotangel/main.m
+c000000004D8EA4FB000000000000016A
+t1301193979
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dxhujbmwxhzkydafvyakuhxytfss/AppKit.h.gch
+t2
+s0
+
+N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch
+t1301194476
+s15477968
+
+N/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-hexchefigzvjzfglwqwazongmsca/MWPhotoBrowser_Prefix.pch.gch
+t2
+s0
+
+NMWPhotoBrowser-Info.plist
+c000000004CD1AE8A00000000000003FF
+t1288810122
+s1023
+
+NRAPhotoBrowser-Info.plist
+c000000004D8EA92000000000000003FF
+t1301195040
+s1023
+
+NRobotangel-Info.plist
+c000000004D8EA7AC000000000000037F
+t1301194668
+s895
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322887877#322887878#0(0"0(0#1#0"8618082624#0"0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o /Users/rdaly/Code/Robotangel/Classes/Menu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.811669
+e322887743.903299
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o
+x/Users/rdaly/Code/Robotangel/Classes/Menu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/rdaly/Code/Robotangel/Classes/Menu.m322887743#322887743#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/Classes/Menu.m8617281024#1908"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/Menu.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Menu.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.715714
+e322887743.811538
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o
+x/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m322887743#322887743#0(0"0(0#0#46"/Users/rdaly/Code/Robotangel/Classes/RAPhoto.m8619402624#1914"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhoto.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhoto.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.619762
+e322887743.843615
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o
+x/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m322887743#322887743#0(0"0(0#0#53"/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m8619838624#1928"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowser.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowser.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.618748
+e322887743.715569
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o
+x/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m322887743#322887743#0(0"0(0#0#64"/Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m8604681664#1950"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAPhotoBrowserAppDelegate.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAPhotoBrowserAppDelegate.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.620992
+e322887743.789768
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o
+x/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m322887743#322887743#0(0"0(0#0#58"/Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m8614436992#1938"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/RAZoomingScrollView.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/RAZoomingScrollView.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.789910
+e322887743.858647
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o
+x/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m322887743#322887743#0(0"0(0#0#57"/Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m8618595104#1936"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIImage+Decompress.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImage+Decompress.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.678659
+e322887743.806192
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o
+x/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m322887743#322887743#0(0"0(0#0#53"/Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m8619607584#1928"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIImageViewTap.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIImageViewTap.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.806322
+e322887743.888234
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o
+x/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m322887743#322887743#0(0"0(0#0#48"/Users/rdaly/Code/Robotangel/Classes/UIViewTap.m8617576256#1918"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/Classes/UIViewTap.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/UIViewTap.o0#
+
+CCompileC build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o /Users/rdaly/Code/Robotangel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887743.617706
+e322887743.678519
+r1
+xCompileC
+xbuild/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o
+x/Users/rdaly/Code/Robotangel/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/rdaly/Code/Robotangel/main.m322887743#322887743#0(0"0(0#0#35"/Users/rdaly/Code/Robotangel/main.m8610451648#1900"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -include /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch -c /Users/rdaly/Code/Robotangel/main.m -o /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rdaly/Code/Robotangel/MainWindow.xib
+s322887878.038972
+e322887878.403028
+r1
+xCompileXIB
+x/Users/rdaly/Code/Robotangel/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322887878#322887878#0(0"0(0#0#43"/Users/rdaly/Code/Robotangel/MainWindow.xib8616887552#543"    cd /Users/rdaly/Code/Robotangel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow.nib /Users/rdaly/Code/Robotangel/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+s322887878.053808
+e322887878.406058
+r1
+xCompileXIB
+x/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib322887878#322887878#0(0"0(0#0#63"/Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib8608369440#568"    cd /Users/rdaly/Code/Robotangel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/MainWindow-iPad.nib /Users/rdaly/Code/Robotangel/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1l.jpg Classes/../photo1l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo1m.jpg Classes/../photo1m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2l.jpg Classes/../photo2l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo2m.jpg Classes/../photo2m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3l.jpg Classes/../photo3l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo3m.jpg Classes/../photo3m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4l.jpg Classes/../photo4l.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/MWPhotoBrowser.app/photo4m.jpg Classes/../photo4m.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png UIBarButtonItemArrowLeft.png
+s322887878.045989
+e322887878.057857
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft.png
+xUIBarButtonItemArrowLeft.png
+lSLF07#2@33"Copy UIBarButtonItemArrowLeft.png322887878#322887878#0(0"0(0#0#57"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png8612440384#459"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png UIBarButtonItemArrowLeft@2x.png
+s322887878.047485
+e322887878.059597
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowLeft@2x.png
+xUIBarButtonItemArrowLeft@2x.png
+lSLF07#2@36"Copy UIBarButtonItemArrowLeft@2x.png322887878#322887878#0(0"0(0#0#60"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png8610179968#462"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowLeft@2x.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png UIBarButtonItemArrowRight.png
+s322887878.049341
+e322887878.063272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight.png
+xUIBarButtonItemArrowRight.png
+lSLF07#2@34"Copy UIBarButtonItemArrowRight.png322887878#322887878#0(0"0(0#0#58"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png8610020512#460"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png UIBarButtonItemArrowRight@2x.png
+s322887878.051571
+e322887878.064178
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/UIBarButtonItemArrowRight@2x.png
+xUIBarButtonItemArrowRight@2x.png
+lSLF07#2@37"Copy UIBarButtonItemArrowRight@2x.png322887878#322887878#0(0"0(0#0#61"/Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png8609164800#463"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/UIBarButtonItemArrowRight@2x.png /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo1l.jpg Classes/../photo1l.jpg
+s322887878.039756
+e322887878.047207
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo1l.jpg
+xClasses/../photo1l.jpg
+lSLF07#2@27"Copy Classes/../photo1l.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo1l.jpg8616124224#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo1l.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo1m.jpg Classes/../photo1m.jpg
+s322887878.040467
+e322887878.047377
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo1m.jpg
+xClasses/../photo1m.jpg
+lSLF07#2@27"Copy Classes/../photo1m.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo1m.jpg8615289664#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo1m.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo2l.jpg Classes/../photo2l.jpg
+s322887878.041180
+e322887878.051458
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo2l.jpg
+xClasses/../photo2l.jpg
+lSLF07#2@27"Copy Classes/../photo2l.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo2l.jpg8614670112#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo2l.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo2m.jpg Classes/../photo2m.jpg
+s322887878.042006
+e322887878.053710
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo2m.jpg
+xClasses/../photo2m.jpg
+lSLF07#2@27"Copy Classes/../photo2m.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo2m.jpg8614351584#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo2m.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo3l.jpg Classes/../photo3l.jpg
+s322887878.042840
+e322887878.064534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo3l.jpg
+xClasses/../photo3l.jpg
+lSLF07#2@27"Copy Classes/../photo3l.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo3l.jpg8614098080#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo3l.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo3m.jpg Classes/../photo3m.jpg
+s322887878.043596
+e322887878.059335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo3m.jpg
+xClasses/../photo3m.jpg
+lSLF07#2@27"Copy Classes/../photo3m.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo3m.jpg8613720320#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo3m.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo4l.jpg Classes/../photo4l.jpg
+s322887878.044356
+e322887878.056311
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo4l.jpg
+xClasses/../photo4l.jpg
+lSLF07#2@27"Copy Classes/../photo4l.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo4l.jpg8613431040#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo4l.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CCpResource build/Debug-iphonesimulator/Robotangel.app/photo4m.jpg Classes/../photo4m.jpg
+s322887878.045106
+e322887878.060315
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Robotangel.app/photo4m.jpg
+xClasses/../photo4m.jpg
+lSLF07#2@27"Copy Classes/../photo4m.jpg322887878#322887878#0(0"0(0#0#51"/Users/rdaly/Code/Robotangel/Classes/../photo4m.jpg8612874272#453"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/rdaly/Code/Robotangel/Classes/../photo4m.jpg /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
+CGenerateDSYMFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
+s322887621.938383
+e322887621.961491
+r1
+xGenerateDSYMFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser322887621#322887621#0(0"0(0#0#90"/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser8614546848#374"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app.dSYM0#
+
+CGenerateDSYMFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+s322887743.928565
+e322887743.955697
+r1
+xGenerateDSYMFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Robotangel.app.dSYM build/Debug-iphonesimulator/Robotangel.app/Robotangel322887743#322887743#0(0"0(0#0#82"/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel8614824704#362"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app.dSYM0#
+
+CLd /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser normal i386
+s322887621.912634
+e322887621.938288
+r1
+xLd
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser
+xnormal
+xi386
+lSLF07#2@95"Link /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser322887621#322887621#0(0"0(0#0#0"8616955488#881"    cd /Users/rdaly/Code/Robotangel    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -filelist /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/MWPhotoBrowser.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/MWPhotoBrowser0#
+
+CLd /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel normal i386
+s322887743.903387
+e322887743.928463
+r1
+xLd
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel
+xnormal
+xi386
+lSLF07#2@87"Link /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel322887743#322887743#0(0"0(0#0#0"8616803840#869"    cd /Users/rdaly/Code/Robotangel    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -filelist /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Objects-normal/i386/Robotangel.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Robotangel0#
+
+CProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app/Info.plist MWPhotoBrowser-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist MWPhotoBrowser-Info.plist
+s322887743.231506
+e322887743.272608
+r1
+xProcessInfoPlistFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist
+xMWPhotoBrowser-Info.plist
+lSLF07#2@33"Process MWPhotoBrowser-Info.plist322887743#322887743#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/MWPhotoBrowser-Info.plist8610433952#462"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MWPhotoBrowser-Info.plist -genpkginfo /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist RAPhotoBrowser-Info.plist
+s322887878.035071
+e322887878.038894
+r1
+xProcessInfoPlistFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist
+xRAPhotoBrowser-Info.plist
+lSLF07#2@33"Process RAPhotoBrowser-Info.plist322887878#322887878#0(0"0(0#0#54"/Users/rdaly/Code/Robotangel/RAPhotoBrowser-Info.plist8618532000#462"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RAPhotoBrowser-Info.plist -genpkginfo /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist Robotangel-Info.plist
+s322887525.194125
+e322887525.197770
+r1
+xProcessInfoPlistFile
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist
+xRobotangel-Info.plist
+lSLF07#2@29"Process Robotangel-Info.plist322887525#322887525#0(0"0(0#0#50"/Users/rdaly/Code/Robotangel/Robotangel-Info.plist8618076864#458"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Robotangel-Info.plist -genpkginfo /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app/Info.plist0#
+
+CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dxhujbmwxhzkydafvyakuhxytfss/AppKit.h.gch /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887525.590348
+e322887525.986504
+r0
+xProcessPCH
+x/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dxhujbmwxhzkydafvyakuhxytfss/AppKit.h.gch
+x/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:11:33: error: AppKit/AppKitDefines.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:12:32: error: AppKit/AppKitErrors.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:13:37: error: AppKit/NSGraphicsContext.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:14:35: error: AppKit/NSAccessibility.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:15:32: error: AppKit/NSActionCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:16:27: error: AppKit/NSAlert.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:17:38: error: AppKit/NSAnimationContext.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:18:43: error: AppKit/NSAppleScriptExtensions.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:19:33: error: AppKit/NSApplication.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:20:25: error: AppKit/NSBox.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:21:28: error: AppKit/NSButton.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:22:32: error: AppKit/NSButtonCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:23:26: error: AppKit/NSCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:24:30: error: AppKit/NSClipView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:25:29: error: AppKit/NSControl.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:26:30: error: AppKit/NSDockTile.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:27:26: error: AppKit/NSFont.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:28:36: error: AppKit/NSFontDescriptor.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:29:33: error: AppKit/NSFontManager.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:30:31: error: AppKit/NSFontPanel.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:31:26: error: AppKit/NSForm.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:32:30: error: AppKit/NSFormCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:33:28: error: AppKit/NSMatrix.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:34:26: error: AppKit/NSMenu.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:35:30: error: AppKit/NSMenuItem.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:36:27: error: AppKit/NSColor.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:37:32: error: AppKit/NSColorSpace.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:38:36: error: AppKit/NSBitmapImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:39:29: error: AppKit/NSBrowser.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:40:33: error: AppKit/NSBrowserCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:41:36: error: AppKit/NSCachedImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:42:32: error: AppKit/NSCIImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:43:31: error: AppKit/NSColorList.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:44:32: error: AppKit/NSColorPanel.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:45:34: error: AppKit/NSColorPicking.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:46:33: error: AppKit/NSColorPicker.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:47:31: error: AppKit/NSColorWell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:48:28: error: AppKit/NSCursor.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:49:36: error: AppKit/NSCustomImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:50:30: error: AppKit/NSDocument.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:51:40: error: AppKit/NSDocumentController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:52:30: error: AppKit/NSDragging.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:53:33: error: AppKit/NSEPSImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:54:28: error: AppKit/NSErrors.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:55:27: error: AppKit/NSEvent.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:56:33: error: AppKit/NSFileWrapper.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:57:33: error: AppKit/NSHelpManager.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:58:30: error: AppKit/NSGradient.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:59:30: error: AppKit/NSGraphics.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:60:27: error: AppKit/NSImage.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:61:31: error: AppKit/NSImageCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:62:30: error: AppKit/NSImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:63:31: error: AppKit/NSImageView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:64:25: error: AppKit/NSNib.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:65:32: error: AppKit/NSNibLoading.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:66:29: error: AppKit/NSPrinter.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:67:38: error: AppKit/NSSpeechRecognizer.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:68:39: error: AppKit/NSSpeechSynthesizer.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:69:34: error: AppKit/NSSpellChecker.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:70:31: error: AppKit/NSSplitView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:71:31: error: AppKit/NSOpenPanel.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:72:32: error: AppKit/NSPageLayout.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:73:27: error: AppKit/NSPanel.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:74:32: error: AppKit/NSPasteboard.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:75:36: error: AppKit/NSPasteboardItem.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:76:33: error: AppKit/NSPopUpButton.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:77:31: error: AppKit/NSPrintInfo.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:78:36: error: AppKit/NSPrintOperation.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:79:32: error: AppKit/NSPrintPanel.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:80:31: error: AppKit/NSResponder.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:81:31: error: AppKit/NSSavePanel.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:82:28: error: AppKit/NSScreen.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:83:32: error: AppKit/NSScrollView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:84:30: error: AppKit/NSScroller.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:85:38: error: AppKit/NSSegmentedControl.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:86:35: error: AppKit/NSSegmentedCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:87:28: error: AppKit/NSSlider.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:88:32: error: AppKit/NSSliderCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:89:35: error: AppKit/NSSpellProtocol.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:90:26: error: AppKit/NSText.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:91:31: error: AppKit/NSTextField.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:92:35: error: AppKit/NSTextFieldCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:94:32: error: AppKit/NSTokenField.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:95:36: error: AppKit/NSTokenFieldCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:96:34: error: AppKit/NSTrackingArea.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:97:26: error: AppKit/NSView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:98:36: error: AppKit/NSViewController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:99:28: error: AppKit/NSWindow.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:100:38: error: AppKit/NSWindowController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:101:31: error: AppKit/NSWorkspace.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:102:40: error: AppKit/NSRunningApplication.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:103:30: error: AppKit/NSComboBox.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:104:34: error: AppKit/NSComboBoxCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:105:33: error: AppKit/NSTableColumn.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:106:37: error: AppKit/NSTableHeaderCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:107:37: error: AppKit/NSTableHeaderView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:108:31: error: AppKit/NSTableView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:109:33: error: AppKit/NSOutlineView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:110:38: error: AppKit/NSAttributedString.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:111:35: error: AppKit/NSLayoutManager.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:112:36: error: AppKit/NSParagraphStyle.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:113:33: error: AppKit/NSTextStorage.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:114:30: error: AppKit/NSTextView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:115:35: error: AppKit/NSTextContainer.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:116:36: error: AppKit/NSTextAttachment.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:117:34: error: AppKit/NSInputManager.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:118:33: error: AppKit/NSInputServer.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:119:35: error: AppKit/NSStringDrawing.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:120:33: error: AppKit/NSRulerMarker.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:121:31: error: AppKit/NSRulerView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:122:37: error: AppKit/NSSecureTextField.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:123:36: error: AppKit/NSInterfaceStyle.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:124:37: error: AppKit/NSNibDeclarations.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:125:39: error: AppKit/NSProgressIndicator.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:126:29: error: AppKit/NSTabView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:127:33: error: AppKit/NSTabViewItem.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:128:30: error: AppKit/NSMenuView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:129:34: error: AppKit/NSMenuItemCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:130:37: error: AppKit/NSPopUpButtonCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:131:37: error: AppKit/NSAffineTransform.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:132:32: error: AppKit/NSBezierPath.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:133:34: error: AppKit/NSPICTImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:134:31: error: AppKit/NSStatusBar.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:135:32: error: AppKit/NSStatusItem.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:136:27: error: AppKit/NSSound.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:137:27: error: AppKit/NSMovie.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:138:31: error: AppKit/NSMovieView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:139:33: error: AppKit/NSPDFImageRep.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:140:35: error: AppKit/NSQuickDrawView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:141:28: error: AppKit/NSDrawer.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:142:28: error: AppKit/NSOpenGL.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:143:33: error: AppKit/NSOpenGLLayer.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:144:32: error: AppKit/NSOpenGLView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:145:42: error: AppKit/NSApplicationScripting.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:146:39: error: AppKit/NSDocumentScripting.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:147:42: error: AppKit/NSTextStorageScripting.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:148:29: error: AppKit/NSToolbar.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:149:33: error: AppKit/NSToolbarItem.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:150:38: error: AppKit/NSToolbarItemGroup.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:151:37: error: AppKit/NSWindowScripting.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:152:29: error: AppKit/NSStepper.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:153:33: error: AppKit/NSStepperCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:154:31: error: AppKit/NSGlyphInfo.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:155:28: error: AppKit/NSShadow.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:156:35: error: AppKit/NSATSTypesetter.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:157:36: error: AppKit/NSGlyphGenerator.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:158:33: error: AppKit/NSSearchField.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:159:37: error: AppKit/NSSearchFieldCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:160:32: error: AppKit/NSController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:161:38: error: AppKit/NSObjectController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:162:37: error: AppKit/NSArrayController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:163:42: error: AppKit/NSDictionaryController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:164:30: error: AppKit/NSTreeNode.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:165:36: error: AppKit/NSTreeController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:166:44: error: AppKit/NSUserDefaultsController.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:167:37: error: AppKit/NSKeyValueBinding.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:168:30: error: AppKit/NSTextList.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:169:31: error: AppKit/NSTextTable.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:170:36: error: AppKit/NSDatePickerCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:171:32: error: AppKit/NSDatePicker.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:172:40: error: AppKit/NSLevelIndicatorCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:173:36: error: AppKit/NSLevelIndicator.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:174:31: error: AppKit/NSAnimation.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:175:40: error: AppKit/NSPersistentDocument.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:176:32: error: AppKit/NSRuleEditor.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:177:37: error: AppKit/NSPredicateEditor.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:178:48: error: AppKit/NSPredicateEditorRowTemplate.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:179:30: error: AppKit/NSPathCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:180:33: error: AppKit/NSPathControl.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:181:39: error: AppKit/NSPathComponentCell.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:182:36: error: AppKit/NSCollectionView.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:183:37: error: AppKit/NSTextInputClient.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:184:38: error: AppKit/NSTextInputContext.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:185:48: error: AppKit/NSUserInterfaceItemSearching.h: No such file or directory
+o/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:186:27: error: AppKit/NSTouch.h: No such file or directory
+lSLF07#2@71"Precompile /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h322887525#322887525#0(21972"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:11:33: error: AppKit/AppKitDefines.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:12:32: error: AppKit/AppKitErrors.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:13:37: error: AppKit/NSGraphicsContext.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:14:35: error: AppKit/NSAccessibility.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:15:32: error: AppKit/NSActionCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:16:27: error: AppKit/NSAlert.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:17:38: error: AppKit/NSAnimationContext.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:18:43: error: AppKit/NSAppleScriptExtensions.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:19:33: error: AppKit/NSApplication.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:20:25: error: AppKit/NSBox.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:21:28: error: AppKit/NSButton.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:22:32: error: AppKit/NSButtonCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:23:26: error: AppKit/NSCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:24:30: error: AppKit/NSClipView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:25:29: error: AppKit/NSControl.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:26:30: error: AppKit/NSDockTile.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:27:26: error: AppKit/NSFont.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:28:36: error: AppKit/NSFontDescriptor.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:29:33: error: AppKit/NSFontManager.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:30:31: error: AppKit/NSFontPanel.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:31:26: error: AppKit/NSForm.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:32:30: error: AppKit/NSFormCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:33:28: error: AppKit/NSMatrix.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:34:26: error: AppKit/NSMenu.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:35:30: error: AppKit/NSMenuItem.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:36:27: error: AppKit/NSColor.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:37:32: error: AppKit/NSColorSpace.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:38:36: error: AppKit/NSBitmapImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:39:29: error: AppKit/NSBrowser.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:40:33: error: AppKit/NSBrowserCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:41:36: error: AppKit/NSCachedImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:42:32: error: AppKit/NSCIImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:43:31: error: AppKit/NSColorList.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:44:32: error: AppKit/NSColorPanel.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:45:34: error: AppKit/NSColorPicking.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:46:33: error: AppKit/NSColorPicker.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:47:31: error: AppKit/NSColorWell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:48:28: error: AppKit/NSCursor.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:49:36: error: AppKit/NSCustomImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:50:30: error: AppKit/NSDocument.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:51:40: error: AppKit/NSDocumentController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:52:30: error: AppKit/NSDragging.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:53:33: error: AppKit/NSEPSImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:54:28: error: AppKit/NSErrors.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:55:27: error: AppKit/NSEvent.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:56:33: error: AppKit/NSFileWrapper.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:57:33: error: AppKit/NSHelpManager.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:58:30: error: AppKit/NSGradient.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:59:30: error: AppKit/NSGraphics.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:60:27: error: AppKit/NSImage.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:61:31: error: AppKit/NSImageCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:62:30: error: AppKit/NSImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:63:31: error: AppKit/NSImageView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:64:25: error: AppKit/NSNib.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:65:32: error: AppKit/NSNibLoading.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:66:29: error: AppKit/NSPrinter.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:67:38: error: AppKit/NSSpeechRecognizer.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:68:39: error: AppKit/NSSpeechSynthesizer.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:69:34: error: AppKit/NSSpellChecker.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:70:31: error: AppKit/NSSplitView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:71:31: error: AppKit/NSOpenPanel.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:72:32: error: AppKit/NSPageLayout.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:73:27: error: AppKit/NSPanel.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:74:32: error: AppKit/NSPasteboard.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:75:36: error: AppKit/NSPasteboardItem.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:76:33: error: AppKit/NSPopUpButton.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:77:31: error: AppKit/NSPrintInfo.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:78:36: error: AppKit/NSPrintOperation.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:79:32: error: AppKit/NSPrintPanel.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:80:31: error: AppKit/NSResponder.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:81:31: error: AppKit/NSSavePanel.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:82:28: error: AppKit/NSScreen.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:83:32: error: AppKit/NSScrollView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:84:30: error: AppKit/NSScroller.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:85:38: error: AppKit/NSSegmentedControl.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:86:35: error: AppKit/NSSegmentedCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:87:28: error: AppKit/NSSlider.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:88:32: error: AppKit/NSSliderCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:89:35: error: AppKit/NSSpellProtocol.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:90:26: error: AppKit/NSText.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:91:31: error: AppKit/NSTextField.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:92:35: error: AppKit/NSTextFieldCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:94:32: error: AppKit/NSTokenField.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:95:36: error: AppKit/NSTokenFieldCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:96:34: error: AppKit/NSTrackingArea.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:97:26: error: AppKit/NSView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:98:36: error: AppKit/NSViewController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:99:28: error: AppKit/NSWindow.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:100:38: error: AppKit/NSWindowController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:101:31: error: AppKit/NSWorkspace.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:102:40: error: AppKit/NSRunningApplication.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:103:30: error: AppKit/NSComboBox.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:104:34: error: AppKit/NSComboBoxCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:105:33: error: AppKit/NSTableColumn.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:106:37: error: AppKit/NSTableHeaderCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:107:37: error: AppKit/NSTableHeaderView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:108:31: error: AppKit/NSTableView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:109:33: error: AppKit/NSOutlineView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:110:38: error: AppKit/NSAttributedString.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:111:35: error: AppKit/NSLayoutManager.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:112:36: error: AppKit/NSParagraphStyle.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:113:33: error: AppKit/NSTextStorage.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:114:30: error: AppKit/NSTextView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:115:35: error: AppKit/NSTextContainer.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:116:36: error: AppKit/NSTextAttachment.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:117:34: error: AppKit/NSInputManager.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:118:33: error: AppKit/NSInputServer.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:119:35: error: AppKit/NSStringDrawing.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:120:33: error: AppKit/NSRulerMarker.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:121:31: error: AppKit/NSRulerView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:122:37: error: AppKit/NSSecureTextField.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:123:36: error: AppKit/NSInterfaceStyle.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:124:37: error: AppKit/NSNibDeclarations.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:125:39: error: AppKit/NSProgressIndicator.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:126:29: error: AppKit/NSTabView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:127:33: error: AppKit/NSTabViewItem.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:128:30: error: AppKit/NSMenuView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:129:34: error: AppKit/NSMenuItemCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:130:37: error: AppKit/NSPopUpButtonCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:131:37: error: AppKit/NSAffineTransform.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:132:32: error: AppKit/NSBezierPath.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:133:34: error: AppKit/NSPICTImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:134:31: error: AppKit/NSStatusBar.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:135:32: error: AppKit/NSStatusItem.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:136:27: error: AppKit/NSSound.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:137:27: error: AppKit/NSMovie.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:138:31: error: AppKit/NSMovieView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:139:33: error: AppKit/NSPDFImageRep.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:140:35: error: AppKit/NSQuickDrawView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:141:28: error: AppKit/NSDrawer.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:142:28: error: AppKit/NSOpenGL.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:143:33: error: AppKit/NSOpenGLLayer.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:144:32: error: AppKit/NSOpenGLView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:145:42: error: AppKit/NSApplicationScripting.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:146:39: error: AppKit/NSDocumentScripting.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:147:42: error: AppKit/NSTextStorageScripting.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:148:29: error: AppKit/NSToolbar.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:149:33: error: AppKit/NSToolbarItem.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:150:38: error: AppKit/NSToolbarItemGroup.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:151:37: error: AppKit/NSWindowScripting.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:152:29: error: AppKit/NSStepper.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:153:33: error: AppKit/NSStepperCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:154:31: error: AppKit/NSGlyphInfo.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:155:28: error: AppKit/NSShadow.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:156:35: error: AppKit/NSATSTypesetter.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:157:36: error: AppKit/NSGlyphGenerator.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:158:33: error: AppKit/NSSearchField.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:159:37: error: AppKit/NSSearchFieldCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:160:32: error: AppKit/NSController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:161:38: error: AppKit/NSObjectController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:162:37: error: AppKit/NSArrayController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:163:42: error: AppKit/NSDictionaryController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:164:30: error: AppKit/NSTreeNode.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:165:36: error: AppKit/NSTreeController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:166:44: error: AppKit/NSUserDefaultsController.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:167:37: error: AppKit/NSKeyValueBinding.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:168:30: error: AppKit/NSTextList.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:169:31: error: AppKit/NSTextTable.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:170:36: error: AppKit/NSDatePickerCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:171:32: error: AppKit/NSDatePicker.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:172:40: error: AppKit/NSLevelIndicatorCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:173:36: error: AppKit/NSLevelIndicator.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:174:31: error: AppKit/NSAnimation.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:175:40: error: AppKit/NSPersistentDocument.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:176:32: error: AppKit/NSRuleEditor.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:177:37: error: AppKit/NSPredicateEditor.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:178:48: error: AppKit/NSPredicateEditorRowTemplate.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:179:30: error: AppKit/NSPathCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:180:33: error: AppKit/NSPathControl.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:181:39: error: AppKit/NSPathComponentCell.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:182:36: error: AppKit/NSCollectionView.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:183:37: error: AppKit/NSTextInputClient.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:184:38: error: AppKit/NSTextInputContext.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:185:48: error: AppKit/NSUserInterfaceItemSearching.h: No such file or directory/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:186:27: error: AppKit/NSTouch.h: No such file or directory175(4@49"AppKit/AppKitDefines.h: No such file or directory322887525#0#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#11#0#11#0#28"*: No such file or directory0(4@48"AppKit/AppKitErrors.h: No such file or directory322887525#125#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#12#0#12#0#28"*: No such file or directory0(4@53"AppKit/NSGraphicsContext.h: No such file or directory322887525#249#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#13#0#13#0#28"*: No such file or directory0(4@51"AppKit/NSAccessibility.h: No such file or directory322887525#378#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#14#0#14#0#28"*: No such file or directory0(4@48"AppKit/NSActionCell.h: No such file or directory322887525#505#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#15#0#15#0#28"*: No such file or directory0(4@43"AppKit/NSAlert.h: No such file or directory322887525#629#119#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#16#0#16#0#28"*: No such file or directory0(4@54"AppKit/NSAnimationContext.h: No such file or directory322887525#748#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#17#0#17#0#28"*: No such file or directory0(4@59"AppKit/NSAppleScriptExtensions.h: No such file or directory322887525#878#135#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#18#0#18#0#28"*: No such file or directory0(4@49"AppKit/NSApplication.h: No such file or directory322887525#1013#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#19#0#19#0#28"*: No such file or directory0(4@41"AppKit/NSBox.h: No such file or directory322887525#1138#117#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#20#0#20#0#28"*: No such file or directory0(4@44"AppKit/NSButton.h: No such file or directory322887525#1255#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#21#0#21#0#28"*: No such file or directory0(4@48"AppKit/NSButtonCell.h: No such file or directory322887525#1375#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#22#0#22#0#28"*: No such file or directory0(4@42"AppKit/NSCell.h: No such file or directory322887525#1499#118#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#23#0#23#0#28"*: No such file or directory0(4@46"AppKit/NSClipView.h: No such file or directory322887525#1617#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#24#0#24#0#28"*: No such file or directory0(4@45"AppKit/NSControl.h: No such file or directory322887525#1739#121#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#25#0#25#0#28"*: No such file or directory0(4@46"AppKit/NSDockTile.h: No such file or directory322887525#1860#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#26#0#26#0#28"*: No such file or directory0(4@42"AppKit/NSFont.h: No such file or directory322887525#1982#118#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#27#0#27#0#28"*: No such file or directory0(4@52"AppKit/NSFontDescriptor.h: No such file or directory322887525#2100#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#28#0#28#0#28"*: No such file or directory0(4@49"AppKit/NSFontManager.h: No such file or directory322887525#2228#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#29#0#29#0#28"*: No such file or directory0(4@47"AppKit/NSFontPanel.h: No such file or directory322887525#2353#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#30#0#30#0#28"*: No such file or directory0(4@42"AppKit/NSForm.h: No such file or directory322887525#2476#118#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#31#0#31#0#28"*: No such file or directory0(4@46"AppKit/NSFormCell.h: No such file or directory322887525#2594#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#32#0#32#0#28"*: No such file or directory0(4@44"AppKit/NSMatrix.h: No such file or directory322887525#2716#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#33#0#33#0#28"*: No such file or directory0(4@42"AppKit/NSMenu.h: No such file or directory322887525#2836#118#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#34#0#34#0#28"*: No such file or directory0(4@46"AppKit/NSMenuItem.h: No such file or directory322887525#2954#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#35#0#35#0#28"*: No such file or directory0(4@43"AppKit/NSColor.h: No such file or directory322887525#3076#119#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#36#0#36#0#28"*: No such file or directory0(4@48"AppKit/NSColorSpace.h: No such file or directory322887525#3195#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#37#0#37#0#28"*: No such file or directory0(4@52"AppKit/NSBitmapImageRep.h: No such file or directory322887525#3319#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#38#0#38#0#28"*: No such file or directory0(4@45"AppKit/NSBrowser.h: No such file or directory322887525#3447#121#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#39#0#39#0#28"*: No such file or directory0(4@49"AppKit/NSBrowserCell.h: No such file or directory322887525#3568#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#40#0#40#0#28"*: No such file or directory0(4@52"AppKit/NSCachedImageRep.h: No such file or directory322887525#3693#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#41#0#41#0#28"*: No such file or directory0(4@48"AppKit/NSCIImageRep.h: No such file or directory322887525#3821#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#42#0#42#0#28"*: No such file or directory0(4@47"AppKit/NSColorList.h: No such file or directory322887525#3945#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#43#0#43#0#28"*: No such file or directory0(4@48"AppKit/NSColorPanel.h: No such file or directory322887525#4068#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#44#0#44#0#28"*: No such file or directory0(4@50"AppKit/NSColorPicking.h: No such file or directory322887525#4192#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#45#0#45#0#28"*: No such file or directory0(4@49"AppKit/NSColorPicker.h: No such file or directory322887525#4318#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#46#0#46#0#28"*: No such file or directory0(4@47"AppKit/NSColorWell.h: No such file or directory322887525#4443#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#47#0#47#0#28"*: No such file or directory0(4@44"AppKit/NSCursor.h: No such file or directory322887525#4566#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#48#0#48#0#28"*: No such file or directory0(4@52"AppKit/NSCustomImageRep.h: No such file or directory322887525#4686#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#49#0#49#0#28"*: No such file or directory0(4@46"AppKit/NSDocument.h: No such file or directory322887525#4814#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#50#0#50#0#28"*: No such file or directory0(4@56"AppKit/NSDocumentController.h: No such file or directory322887525#4936#132#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#51#0#51#0#28"*: No such file or directory0(4@46"AppKit/NSDragging.h: No such file or directory322887525#5068#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#52#0#52#0#28"*: No such file or directory0(4@49"AppKit/NSEPSImageRep.h: No such file or directory322887525#5190#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#53#0#53#0#28"*: No such file or directory0(4@44"AppKit/NSErrors.h: No such file or directory322887525#5315#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#54#0#54#0#28"*: No such file or directory0(4@43"AppKit/NSEvent.h: No such file or directory322887525#5435#119#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#55#0#55#0#28"*: No such file or directory0(4@49"AppKit/NSFileWrapper.h: No such file or directory322887525#5554#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#56#0#56#0#28"*: No such file or directory0(4@49"AppKit/NSHelpManager.h: No such file or directory322887525#5679#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#57#0#57#0#28"*: No such file or directory0(4@46"AppKit/NSGradient.h: No such file or directory322887525#5804#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#58#0#58#0#28"*: No such file or directory0(4@46"AppKit/NSGraphics.h: No such file or directory322887525#5926#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#59#0#59#0#28"*: No such file or directory0(4@43"AppKit/NSImage.h: No such file or directory322887525#6048#119#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#60#0#60#0#28"*: No such file or directory0(4@47"AppKit/NSImageCell.h: No such file or directory322887525#6167#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#61#0#61#0#28"*: No such file or directory0(4@46"AppKit/NSImageRep.h: No such file or directory322887525#6290#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#62#0#62#0#28"*: No such file or directory0(4@47"AppKit/NSImageView.h: No such file or directory322887525#6412#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#63#0#63#0#28"*: No such file or directory0(4@41"AppKit/NSNib.h: No such file or directory322887525#6535#117#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#64#0#64#0#28"*: No such file or directory0(4@48"AppKit/NSNibLoading.h: No such file or directory322887525#6652#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#65#0#65#0#28"*: No such file or directory0(4@45"AppKit/NSPrinter.h: No such file or directory322887525#6776#121#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#66#0#66#0#28"*: No such file or directory0(4@54"AppKit/NSSpeechRecognizer.h: No such file or directory322887525#6897#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#67#0#67#0#28"*: No such file or directory0(4@55"AppKit/NSSpeechSynthesizer.h: No such file or directory322887525#7027#131#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#68#0#68#0#28"*: No such file or directory0(4@50"AppKit/NSSpellChecker.h: No such file or directory322887525#7158#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#69#0#69#0#28"*: No such file or directory0(4@47"AppKit/NSSplitView.h: No such file or directory322887525#7284#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#70#0#70#0#28"*: No such file or directory0(4@47"AppKit/NSOpenPanel.h: No such file or directory322887525#7407#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#71#0#71#0#28"*: No such file or directory0(4@48"AppKit/NSPageLayout.h: No such file or directory322887525#7530#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#72#0#72#0#28"*: No such file or directory0(4@43"AppKit/NSPanel.h: No such file or directory322887525#7654#119#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#73#0#73#0#28"*: No such file or directory0(4@48"AppKit/NSPasteboard.h: No such file or directory322887525#7773#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#74#0#74#0#28"*: No such file or directory0(4@52"AppKit/NSPasteboardItem.h: No such file or directory322887525#7897#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#75#0#75#0#28"*: No such file or directory0(4@49"AppKit/NSPopUpButton.h: No such file or directory322887525#8025#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#76#0#76#0#28"*: No such file or directory0(4@47"AppKit/NSPrintInfo.h: No such file or directory322887525#8150#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#77#0#77#0#28"*: No such file or directory0(4@52"AppKit/NSPrintOperation.h: No such file or directory322887525#8273#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#78#0#78#0#28"*: No such file or directory0(4@48"AppKit/NSPrintPanel.h: No such file or directory322887525#8401#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#79#0#79#0#28"*: No such file or directory0(4@47"AppKit/NSResponder.h: No such file or directory322887525#8525#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#80#0#80#0#28"*: No such file or directory0(4@47"AppKit/NSSavePanel.h: No such file or directory322887525#8648#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#81#0#81#0#28"*: No such file or directory0(4@44"AppKit/NSScreen.h: No such file or directory322887525#8771#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#82#0#82#0#28"*: No such file or directory0(4@48"AppKit/NSScrollView.h: No such file or directory322887525#8891#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#83#0#83#0#28"*: No such file or directory0(4@46"AppKit/NSScroller.h: No such file or directory322887525#9015#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#84#0#84#0#28"*: No such file or directory0(4@54"AppKit/NSSegmentedControl.h: No such file or directory322887525#9137#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#85#0#85#0#28"*: No such file or directory0(4@51"AppKit/NSSegmentedCell.h: No such file or directory322887525#9267#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#86#0#86#0#28"*: No such file or directory0(4@44"AppKit/NSSlider.h: No such file or directory322887525#9394#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#87#0#87#0#28"*: No such file or directory0(4@48"AppKit/NSSliderCell.h: No such file or directory322887525#9514#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#88#0#88#0#28"*: No such file or directory0(4@51"AppKit/NSSpellProtocol.h: No such file or directory322887525#9638#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#89#0#89#0#28"*: No such file or directory0(4@42"AppKit/NSText.h: No such file or directory322887525#9765#118#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#90#0#90#0#28"*: No such file or directory0(4@47"AppKit/NSTextField.h: No such file or directory322887525#9883#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#91#0#91#0#28"*: No such file or directory0(4@51"AppKit/NSTextFieldCell.h: No such file or directory322887525#10006#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#92#0#92#0#28"*: No such file or directory0(4@48"AppKit/NSTokenField.h: No such file or directory322887525#10133#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#94#0#94#0#28"*: No such file or directory0(4@52"AppKit/NSTokenFieldCell.h: No such file or directory322887525#10257#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#95#0#95#0#28"*: No such file or directory0(4@50"AppKit/NSTrackingArea.h: No such file or directory322887525#10385#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#96#0#96#0#28"*: No such file or directory0(4@42"AppKit/NSView.h: No such file or directory322887525#10511#118#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#97#0#97#0#28"*: No such file or directory0(4@52"AppKit/NSViewController.h: No such file or directory322887525#10629#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#98#0#98#0#28"*: No such file or directory0(4@44"AppKit/NSWindow.h: No such file or directory322887525#10757#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#99#0#99#0#28"*: No such file or directory0(4@54"AppKit/NSWindowController.h: No such file or directory322887525#10877#131#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#100#0#100#0#28"*: No such file or directory0(4@47"AppKit/NSWorkspace.h: No such file or directory322887525#11008#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#101#0#101#0#28"*: No such file or directory0(4@56"AppKit/NSRunningApplication.h: No such file or directory322887525#11132#133#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#102#0#102#0#28"*: No such file or directory0(4@46"AppKit/NSComboBox.h: No such file or directory322887525#11265#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#103#0#103#0#28"*: No such file or directory0(4@50"AppKit/NSComboBoxCell.h: No such file or directory322887525#11388#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#104#0#104#0#28"*: No such file or directory0(4@49"AppKit/NSTableColumn.h: No such file or directory322887525#11515#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#105#0#105#0#28"*: No such file or directory0(4@53"AppKit/NSTableHeaderCell.h: No such file or directory322887525#11641#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#106#0#106#0#28"*: No such file or directory0(4@53"AppKit/NSTableHeaderView.h: No such file or directory322887525#11771#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#107#0#107#0#28"*: No such file or directory0(4@47"AppKit/NSTableView.h: No such file or directory322887525#11901#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#108#0#108#0#28"*: No such file or directory0(4@49"AppKit/NSOutlineView.h: No such file or directory322887525#12025#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#109#0#109#0#28"*: No such file or directory0(4@54"AppKit/NSAttributedString.h: No such file or directory322887525#12151#131#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#110#0#110#0#28"*: No such file or directory0(4@51"AppKit/NSLayoutManager.h: No such file or directory322887525#12282#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#111#0#111#0#28"*: No such file or directory0(4@52"AppKit/NSParagraphStyle.h: No such file or directory322887525#12410#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#112#0#112#0#28"*: No such file or directory0(4@49"AppKit/NSTextStorage.h: No such file or directory322887525#12539#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#113#0#113#0#28"*: No such file or directory0(4@46"AppKit/NSTextView.h: No such file or directory322887525#12665#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#114#0#114#0#28"*: No such file or directory0(4@51"AppKit/NSTextContainer.h: No such file or directory322887525#12788#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#115#0#115#0#28"*: No such file or directory0(4@52"AppKit/NSTextAttachment.h: No such file or directory322887525#12916#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#116#0#116#0#28"*: No such file or directory0(4@50"AppKit/NSInputManager.h: No such file or directory322887525#13045#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#117#0#117#0#28"*: No such file or directory0(4@49"AppKit/NSInputServer.h: No such file or directory322887525#13172#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#118#0#118#0#28"*: No such file or directory0(4@51"AppKit/NSStringDrawing.h: No such file or directory322887525#13298#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#119#0#119#0#28"*: No such file or directory0(4@49"AppKit/NSRulerMarker.h: No such file or directory322887525#13426#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#120#0#120#0#28"*: No such file or directory0(4@47"AppKit/NSRulerView.h: No such file or directory322887525#13552#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#121#0#121#0#28"*: No such file or directory0(4@53"AppKit/NSSecureTextField.h: No such file or directory322887525#13676#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#122#0#122#0#28"*: No such file or directory0(4@52"AppKit/NSInterfaceStyle.h: No such file or directory322887525#13806#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#123#0#123#0#28"*: No such file or directory0(4@53"AppKit/NSNibDeclarations.h: No such file or directory322887525#13935#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#124#0#124#0#28"*: No such file or directory0(4@55"AppKit/NSProgressIndicator.h: No such file or directory322887525#14065#132#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#125#0#125#0#28"*: No such file or directory0(4@45"AppKit/NSTabView.h: No such file or directory322887525#14197#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#126#0#126#0#28"*: No such file or directory0(4@49"AppKit/NSTabViewItem.h: No such file or directory322887525#14319#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#127#0#127#0#28"*: No such file or directory0(4@46"AppKit/NSMenuView.h: No such file or directory322887525#14445#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#128#0#128#0#28"*: No such file or directory0(4@50"AppKit/NSMenuItemCell.h: No such file or directory322887525#14568#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#129#0#129#0#28"*: No such file or directory0(4@53"AppKit/NSPopUpButtonCell.h: No such file or directory322887525#14695#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#130#0#130#0#28"*: No such file or directory0(4@53"AppKit/NSAffineTransform.h: No such file or directory322887525#14825#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#131#0#131#0#28"*: No such file or directory0(4@48"AppKit/NSBezierPath.h: No such file or directory322887525#14955#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#132#0#132#0#28"*: No such file or directory0(4@50"AppKit/NSPICTImageRep.h: No such file or directory322887525#15080#127#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#133#0#133#0#28"*: No such file or directory0(4@47"AppKit/NSStatusBar.h: No such file or directory322887525#15207#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#134#0#134#0#28"*: No such file or directory0(4@48"AppKit/NSStatusItem.h: No such file or directory322887525#15331#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#135#0#135#0#28"*: No such file or directory0(4@43"AppKit/NSSound.h: No such file or directory322887525#15456#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#136#0#136#0#28"*: No such file or directory0(4@43"AppKit/NSMovie.h: No such file or directory322887525#15576#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#137#0#137#0#28"*: No such file or directory0(4@47"AppKit/NSMovieView.h: No such file or directory322887525#15696#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#138#0#138#0#28"*: No such file or directory0(4@49"AppKit/NSPDFImageRep.h: No such file or directory322887525#15820#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#139#0#139#0#28"*: No such file or directory0(4@51"AppKit/NSQuickDrawView.h: No such file or directory322887525#15946#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#140#0#140#0#28"*: No such file or directory0(4@44"AppKit/NSDrawer.h: No such file or directory322887525#16074#121#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#141#0#141#0#28"*: No such file or directory0(4@44"AppKit/NSOpenGL.h: No such file or directory322887525#16195#121#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#142#0#142#0#28"*: No such file or directory0(4@49"AppKit/NSOpenGLLayer.h: No such file or directory322887525#16316#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#143#0#143#0#28"*: No such file or directory0(4@48"AppKit/NSOpenGLView.h: No such file or directory322887525#16442#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#144#0#144#0#28"*: No such file or directory0(4@58"AppKit/NSApplicationScripting.h: No such file or directory322887525#16567#135#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#145#0#145#0#28"*: No such file or directory0(4@55"AppKit/NSDocumentScripting.h: No such file or directory322887525#16702#132#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#146#0#146#0#28"*: No such file or directory0(4@58"AppKit/NSTextStorageScripting.h: No such file or directory322887525#16834#135#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#147#0#147#0#28"*: No such file or directory0(4@45"AppKit/NSToolbar.h: No such file or directory322887525#16969#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#148#0#148#0#28"*: No such file or directory0(4@49"AppKit/NSToolbarItem.h: No such file or directory322887525#17091#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#149#0#149#0#28"*: No such file or directory0(4@54"AppKit/NSToolbarItemGroup.h: No such file or directory322887525#17217#131#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#150#0#150#0#28"*: No such file or directory0(4@53"AppKit/NSWindowScripting.h: No such file or directory322887525#17348#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#151#0#151#0#28"*: No such file or directory0(4@45"AppKit/NSStepper.h: No such file or directory322887525#17478#122#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#152#0#152#0#28"*: No such file or directory0(4@49"AppKit/NSStepperCell.h: No such file or directory322887525#17600#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#153#0#153#0#28"*: No such file or directory0(4@47"AppKit/NSGlyphInfo.h: No such file or directory322887525#17726#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#154#0#154#0#28"*: No such file or directory0(4@44"AppKit/NSShadow.h: No such file or directory322887525#17850#121#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#155#0#155#0#28"*: No such file or directory0(4@51"AppKit/NSATSTypesetter.h: No such file or directory322887525#17971#128#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#156#0#156#0#28"*: No such file or directory0(4@52"AppKit/NSGlyphGenerator.h: No such file or directory322887525#18099#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#157#0#157#0#28"*: No such file or directory0(4@49"AppKit/NSSearchField.h: No such file or directory322887525#18228#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#158#0#158#0#28"*: No such file or directory0(4@53"AppKit/NSSearchFieldCell.h: No such file or directory322887525#18354#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#159#0#159#0#28"*: No such file or directory0(4@48"AppKit/NSController.h: No such file or directory322887525#18484#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#160#0#160#0#28"*: No such file or directory0(4@54"AppKit/NSObjectController.h: No such file or directory322887525#18609#131#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#161#0#161#0#28"*: No such file or directory0(4@53"AppKit/NSArrayController.h: No such file or directory322887525#18740#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#162#0#162#0#28"*: No such file or directory0(4@58"AppKit/NSDictionaryController.h: No such file or directory322887525#18870#135#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#163#0#163#0#28"*: No such file or directory0(4@46"AppKit/NSTreeNode.h: No such file or directory322887525#19005#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#164#0#164#0#28"*: No such file or directory0(4@52"AppKit/NSTreeController.h: No such file or directory322887525#19128#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#165#0#165#0#28"*: No such file or directory0(4@60"AppKit/NSUserDefaultsController.h: No such file or directory322887525#19257#137#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#166#0#166#0#28"*: No such file or directory0(4@53"AppKit/NSKeyValueBinding.h: No such file or directory322887525#19394#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#167#0#167#0#28"*: No such file or directory0(4@46"AppKit/NSTextList.h: No such file or directory322887525#19524#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#168#0#168#0#28"*: No such file or directory0(4@47"AppKit/NSTextTable.h: No such file or directory322887525#19647#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#169#0#169#0#28"*: No such file or directory0(4@52"AppKit/NSDatePickerCell.h: No such file or directory322887525#19771#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#170#0#170#0#28"*: No such file or directory0(4@48"AppKit/NSDatePicker.h: No such file or directory322887525#19900#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#171#0#171#0#28"*: No such file or directory0(4@56"AppKit/NSLevelIndicatorCell.h: No such file or directory322887525#20025#133#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#172#0#172#0#28"*: No such file or directory0(4@52"AppKit/NSLevelIndicator.h: No such file or directory322887525#20158#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#173#0#173#0#28"*: No such file or directory0(4@47"AppKit/NSAnimation.h: No such file or directory322887525#20287#124#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#174#0#174#0#28"*: No such file or directory0(4@56"AppKit/NSPersistentDocument.h: No such file or directory322887525#20411#133#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#175#0#175#0#28"*: No such file or directory0(4@48"AppKit/NSRuleEditor.h: No such file or directory322887525#20544#125#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#176#0#176#0#28"*: No such file or directory0(4@53"AppKit/NSPredicateEditor.h: No such file or directory322887525#20669#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#177#0#177#0#28"*: No such file or directory0(4@64"AppKit/NSPredicateEditorRowTemplate.h: No such file or directory322887525#20799#141#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#178#0#178#0#28"*: No such file or directory0(4@46"AppKit/NSPathCell.h: No such file or directory322887525#20940#123#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#179#0#179#0#28"*: No such file or directory0(4@49"AppKit/NSPathControl.h: No such file or directory322887525#21063#126#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#180#0#180#0#28"*: No such file or directory0(4@55"AppKit/NSPathComponentCell.h: No such file or directory322887525#21189#132#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#181#0#181#0#28"*: No such file or directory0(4@52"AppKit/NSCollectionView.h: No such file or directory322887525#21321#129#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#182#0#182#0#28"*: No such file or directory0(4@53"AppKit/NSTextInputClient.h: No such file or directory322887525#21450#130#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#183#0#183#0#28"*: No such file or directory0(4@54"AppKit/NSTextInputContext.h: No such file or directory322887525#21580#131#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#184#0#184#0#28"*: No such file or directory0(4@64"AppKit/NSUserInterfaceItemSearching.h: No such file or directory322887525#21711#141#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#185#0#185#0#28"*: No such file or directory0(4@43"AppKit/NSTouch.h: No such file or directory322887525#21852#120#0(6@60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h299103401#186#0#186#0#28"*: No such file or directory0(0#0#60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8618809728#1772"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -c /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dxhujbmwxhzkydafvyakuhxytfss/AppKit.h.gch1#
+
+CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-eehqldeiohrsntaitmbigfmesxen/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-hexchefigzvjzfglwqwazongmsca/MWPhotoBrowser_Prefix.pch.gch MWPhotoBrowser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322887878.406166
+e322887878.410595
+r0
+xProcessPCH
+x/var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-hexchefigzvjzfglwqwazongmsca/MWPhotoBrowser_Prefix.pch.gch
+xMWPhotoBrowser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@36"Precompile MWPhotoBrowser_Prefix.pch322887878#322887878#0(363"i686-apple-darwin10-gcc-4.2.1: /Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1322887878#18446744073709551615#0#0(1@0"0(0#0#54"/Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch8619768576#1799"    cd /Users/rdaly/Code/Robotangel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-generated-files.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-own-target-headers.hmap -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-all-target-headers.hmap -iquote /Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/Robotangel-project-headers.hmap -F/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator -I/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/include -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources/i386 -I/Users/rdaly/Code/Robotangel/build/MWPhotoBrowser.build/Debug-iphonesimulator/Robotangel.build/DerivedSources -c /Users/rdaly/Code/Robotangel/MWPhotoBrowser_Prefix.pch -o /var/folders/k2/k2KIkUKKFESaDa5V+HvH+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MWPhotoBrowser_Prefix-hexchefigzvjzfglwqwazongmsca/MWPhotoBrowser_Prefix.pch.gch1#
+
+CTouch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
+s322887621.961570
+e322887621.963866
+r1
+xTouch
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app
+lSLF07#2@81"Touch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app322887621#322887621#0(0"0(0#0#0"8612122976#265"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/MWPhotoBrowser.app0#
+
+CTouch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+s322887841.066867
+e322887841.069166
+r1
+xTouch
+x/Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app
+lSLF07#2@77"Touch /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app322887841#322887841#0(0"0(0#0#0"8615378624#261"    cd /Users/rdaly/Code/Robotangel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rdaly/Code/Robotangel/build/Debug-iphonesimulator/Robotangel.app0#
+
